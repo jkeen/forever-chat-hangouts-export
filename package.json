@@ -1,7 +1,7 @@
 {
-  "name": "import-imessage",
+  "name": "forever-chat-export-hangouts",
   "version": "0.0.1",
-  "description": "Exports iMessage chat history into a universal chat format",
+  "description": "Exports Hangouts chat history into a forever chat format",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
@@ -18,6 +18,7 @@
     "chai-as-promised": "^5.1.0",
     "crypto": "0.0.3",
     "mocha": "^2.3.4",
+    "oboe": "^2.1.2",
     "rsvp": "^3.1.0",
     "sqlite3": "^3.1.1",
     "underscore": "^1.8.3"

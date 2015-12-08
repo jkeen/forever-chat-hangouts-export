@@ -1,105 +1,21 @@
-var Sqlite3 = require('sqlite3').verbose();
+var FS      = require('fs');
 var RSVP    = require('rsvp');
 var Crypto  = require('crypto');
 var _       = require('underscore');
-
-var GROUP_SEPARATOR = '|*--*|';
-var QUERY = '' +
-'  SELECT ' +
-'  m.rowid as message_id, ' +
-' ' +
-'  (SELECT chat_id FROM chat_message_join WHERE chat_message_join.message_id = m.rowid) as message_group, ' +
-' ' +
-'  CASE p.participant_count ' +
-'      WHEN 0 THEN "???" ' +
-'      WHEN 1 THEN "Individual" ' +
-'      ELSE "Group" ' +
-'  END AS chat_type, ' +
-' ' +
-'  date, ' +
-' ' +
-'  id AS address, ' +
-' ' +
-'  (SELECT c.account_login FROM chat as c WHERE c.rowid = (SELECT chat_id FROM chat_message_join WHERE chat_message_join.message_id = m.rowid)) as account_login, ' +
-' ' +
-'  (SELECT GROUP_CONCAT(id, "' + GROUP_SEPARATOR + '") FROM handle as h2 ' +
-'    INNER JOIN chat_message_join AS cmj2 ON h2.rowid = chj2.handle_id ' +
-'    INNER JOIN chat_handle_join AS chj2 ON cmj2.chat_id = chj2.chat_id ' +
-'    WHERE cmj2.message_id = m.rowid) AS participants, ' +
-' ' +
-'  is_from_me, ' +
-' ' +
-'  strftime("%Y-%m-%dT%H:%M:%S", DATETIME(date +978307200, "unixepoch")) AS formatted_date, ' +
-' ' +
-'  CASE is_from_me ' +
-'    WHEN 1 THEN ' +
-'      coalesce(coalesce(last_addressed_handle, account_login), id) ' +
-'    ELSE ' +
-'      coalesce(last_addressed_handle, account_login) ' +
-'  END AS me, ' +
-' ' +
-'  CASE is_from_me ' +
-'      WHEN 0 THEN "Received" ' +
-'      WHEN 1 THEN "Sent" ' +
-'      ELSE is_from_me ' +
-'  END AS type, ' +
-' ' +
-'  text, ' +
-' ' +
-'  CASE date_read ' +
-'    WHEN 0 THEN null ' +
-'    ELSE strftime("%Y-%m-%dT%H:%M:%S", DATETIME(date_read +978307200, "unixepoch")) ' +
-'  END AS formatted_date_read, ' +
-' ' +
-'  CASE date_delivered ' +
-'    WHEN 0 THEN null ' +
-'    ELSE strftime("%Y-%m-%dT%H:%M:%S", DATETIME(date_delivered +978307200, "unixepoch")) ' +
-'  END AS formatted_date_delivered, ' +
-' ' +
-' ' +
-'  CASE cache_has_attachments ' +
-'      WHEN 0 THEN Null ' +
-'      WHEN 1 THEN filename ' +
-'  END AS attachment, ' +
-' ' +
-'  m.service ' +
-' ' +
-'FROM message AS m ' +
-'LEFT JOIN message_attachment_join AS maj ON maj.message_id = m.rowid ' +
-'LEFT JOIN attachment AS a ON a.rowid = maj.attachment_id ' +
-'LEFT JOIN handle AS h ON h.rowid = m.handle_id ' +
-'LEFT JOIN chat_message_join as chj ON chj.message_id = m.rowid ' +
-'LEFT JOIN chat as ch ON chj.chat_id = ch.ROWID ' +
-'LEFT JOIN (SELECT count(*) as participant_count, cmj.chat_id, cmj.message_id as mid FROM ' +
-'    chat_handle_join as chj ' +
-'    INNER JOIN chat_message_join as cmj on cmj.chat_id = chj.chat_id ' +
-'    GROUP BY cmj.message_id, cmj.chat_id) as p on p.mid = m.rowid ' +
-'WHERE (text is not null or attachment is not null) ' + // Don't include this crap. They're bogus messages without anything. Not sure why they're in there
-'ORDER BY date';
-
-function getConnection(path) {
-  return new RSVP.Promise(function(resolve, reject) {
-    return new Sqlite3.Database(path, Sqlite3.OPEN_READONLY, function(err) {
-      if (err) {
-        reject(this);
-      }
-      else {
-        resolve(this);
-      }
-    });
-  });
-}
+var oboe    = require('oboe');
 
 var messageMap = {};
 var attachmentMap = {};
 var ordered = [];
-var participantMap = {};
+var allParticipantMap = {};
+var eventCount = 0;
+
 
 // Resets the maps so on subsequent calls we don't get overlaps
 function reset() {
   messageMap = {};
   attachmentMap = {};
-  participantMap = {};
+  allParticipantMap = {};
   ordered = [];
 }
 
@@ -109,7 +25,7 @@ function uniqueId(row){
   return Crypto.createHash('sha1').update(JSON.stringify(info)).digest('hex');
 }
 
-function buildUniversalRow(row) {
+function buildBaseRow(row) {
   return {
     sha:            uniqueId(row),
     is_from_me:     row.is_from_me,
@@ -120,90 +36,8 @@ function buildUniversalRow(row) {
   };
 }
 
-function buildAttachmentRow(row) {
-  return {
-    "path": row.attachment
-  };
-}
-
-function rememberOrder(sha) {
-  ordered.push(sha);
-}
-
 function mapMessage(id, row) {
   messageMap[id] = row;
-}
-
-function mapAttachment(id, row) {
-  if (row.attachment && row.attachment.length > 0) {
-    // has an attachment
-    var attachments = attachmentMap[id];
-
-    if (attachments && attachments.length > 0) {
-      attachments.push(buildAttachmentRow(row));
-      attachmentMap[id] = attachments;
-    }
-    else {
-      attachmentMap[id] = [buildAttachmentRow(row)];
-    }
-  }
-}
-
-function mapParticipants(id, row) {
-  var map = (participantMap[row.message_group] || {});
-  // Using a hash so we can only deal in uniques
-  map[row.address] = "";
-  map[row.me || '<me>'] = "";
-  participantMap[row.message_group] = map;
-}
-
-function formattedParticipantMapForMessage(row) {
-   var p = participantMap[row.message_group];
-    delete p[null];
-   return Object.keys(p).sort();
-}
-
-function formattedAttachmentsForMessage(message) {
-  var attachments =  attachmentMap[message.sha];
-  return attachments ? attachments : [];
-}
-
-function setSenderAndReceiver(message) {
-  if (message.is_from_me) {
-    message.sender   = message._me;
-    message.receiver = _.without(message.participants, message._me);
-  }
-  else {
-    message.sender = message._address;
-    message.receiver = _.without(message.participants, message._address);
-  }
-  // delete message._address;
-  // delete message._me;
-
-  return message;
-}
-
-function prepareRow(row) {
-  var sha  = uniqueId(row);
-
-  // this is called in order by date, so we'll remember the
-  // order and retreive the keys in the same order
-  rememberOrder(sha);
-
-  // For a message with multiple attachments, everything but the attachment
-  // will be the same for each row
-
-  // e.g.  id   date      text    attachment
-  // e.g.  1   012125125  hello   /path/to/lionel_ritchie_photo_1
-  // e.g.  1   012125125  hello   /path/to/lionel_ritchie_photo_2
-
-  // So we'll map the message by sha and eliminate duplicates, and keep
-  // track of the attachments by sha, and then relate them together at the end
-  mapMessage(sha, row);
-
-  // We'll relate these later
-  mapAttachment(sha, row);
-  mapParticipants(sha, row);
 }
 
 function buildPayload() {
@@ -217,6 +51,7 @@ function buildPayload() {
       var message           = buildUniversalRow(row);
       message.attachments   = formattedAttachmentsForMessage(row);
       message.participants  = formattedParticipantMapForMessage(row);
+      message.source        = sourceInfo(row);
       message               = setSenderAndReceiver(message);
 
       delete messageMap[sha];
@@ -227,25 +62,142 @@ function buildPayload() {
   return messages;
 }
 
-module.exports = function(path, locale) {
-  reset();
+function mapParticipants(row) {
+  return RSVP.Promise(function(resolve, reject) {
+    var allParticipantMap = {};
 
-  var promise = new RSVP.Promise(function(resolve, reject) {
-    getConnection(path).then(function(db) {
-      db.serialize(function() {
-        db.each(QUERY, function(error, row) {
-          prepareRow(row);
-        }, function() { // FINISHED CALLBACK
-
-          var messages = buildPayload();
-          resolve(messages);
-        });
+    _.each(row, function(value, key) {
+      var conversation = row[key].conversation_state.conversation;
+      _.each(conversation.participant_data, function(person) {
+        var gaia_id = person.id.gaia_id;
+        if(person.fallback_name && person.fallback_name !== null) {
+          if(!allParticipantMap[gaia_id]) {
+            allParticipantMap[gaia_id] = person.fallback_name;
+          }
+        }
       });
-      db.close();
+    });
+
+    resolve(allParticipantMap);
+  });
+}
+
+function getParticipantsFromConversation(conversation, allParticipantMap) {
+  var participants = [],
+      participantMap = {};
+
+  _.each(conversation.participant_data, function(value, key) {
+    var person  = conversation.participant_data[key];
+    var gaia_id = person.id.gaia_id;
+    var name = "Unknown";
+    if (person.fallback_name){
+      name = person.fallback_name;
+    }
+    else {
+      name = allParticipantMap[gaia_id];
+    }
+
+    participants.push(name);
+    participantMap[gaia_id] = name;
+  });
+
+  return participantMap;
+}
+
+function buildMessages(row, allParticipantMap) {
+  _.each(row, function(conversationState) {
+    var id = conversationState.conversation_id.id;
+    var conversation = conversationState.conversation_state.conversation;
+    var participantMap = getParticipantsFromConversation(conversation, allParticipantMap);
+    var events = [];
+
+    // A conversation is made up of events
+    _.each(conversationState.conversation_state.event, function(value, key) {
+
+      var convoEvent = conversationState.conversation_state.event[key];
+
+      eventCount = eventCount + 1;
+      console.log(JSON.stringify(convoEvent));
+
+      var sender = convoEvent.sender_id.gaia_id;
+      var message = "";
+      var timestamp = convoEvent.timestamp;
+      if (convoEvent.chat_message) {
+          // console.log(JSON.stringify(convoEvent.chat_message));
+          // console.log('\n\n\n');
+
+        _.each(convoEvent.chat_message.message_content.segment, function(segment) {
+          // All the known types
+          if (segment.type === 'TEXT') {
+            message += segment.text;
+          }
+          else if (segment.type === "LINE_BREAK") {
+            message += '\n';
+          }
+          else if (segment.type == "LINK") {
+            message += segment.text;
+
+            if (segment.link_data.link_target.match(/www\.google\.com\/url\?/)) {
+            }
+            else {
+              // console.log(segment);
+
+            }
+          }
+        });
+        _.each(convoEvent.chat_message.message_content.attachment, function(attachment) {
+          // console.log(attachment);
+
+          m.attachments.push(attachment);
+        });
+
+        if (m.attachments.length > 0) {
+          // console.log(JSON.stringify(convoEvent.chat_message));
+          // console.log('\n\n\n')
+        }
+      }
+    });
+  });
+}
+
+function processConversation(conversation) {
+  return RSVP.Promise(function(resolve, reject) {
+    console.log('ok')
+    return mapParticipants(conversation).then(function(participantMap) {
+      var messages = buildMessages(conversation, participantMap);
+      resolve(messages);
     }, function(reason) {
-      reject("Couldn't open selected database");
+      console.log('map participant failed');
+    }).catch(function(error) {
+      console.log('something went wrong', error);
+    });
+  }).catch(function(e) {
+    console.log('errrrrr')
+  });
+}
+
+
+module.exports = function(path, locale) {
+  return new RSVP.Promise(function(resolve, reject) {
+    var i = 0;
+    var promiseHash = {};
+    oboe(FS.createReadStream(path))
+    .node('conversation_state', function(c){
+      var conversationId = c.conversation_id.id;
+      promiseHash[conversationId] = processConversation(c);
+    })
+    .done(function(things) {
+      return RSVP.hash(promiseHash).then(function(results) {
+
+        console.log(Object.keys(results));
+
+//        resolve(things);
+      }, function(reason) {
+
+      }).catch(function(error) {
+  console.log('something went wrong', error);
+});
     });
   });
 
-  return promise;
 };

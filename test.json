@@ -1,0 +1,3455 @@
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=B0yOzQjYSmQ',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=B0yOzQjYSmQ',
+     display_url: 'https://www.youtube.com/watch?v=B0yOzQjYSmQ' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=rwDbOmPQNx0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=rwDbOmPQNx0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KHZ8ek-6ccc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=KHZ8ek-6ccc' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/zEYjJoF2RAY',
+  link_data: { link_target: 'http://youtu.be/zEYjJoF2RAY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=dbbque0Y4FU',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=dbbque0Y4FU' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=6w0jakILepk#t=12',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=6w0jakILepk#t=12' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=WTK9X-MIeMo',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=WTK9X-MIeMo' } }
+{ type: 'LINK',
+  text: 'http://m.youtube.com/watch?v=wkmR7TYUt_c',
+  link_data: { link_target: 'http://m.youtube.com/watch?v=wkmR7TYUt_c' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=7mmuQteX1qA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=7mmuQteX1qA' } }
+{ type: 'LINK',
+  text: 'https://m.youtube.com/watch?v=oQOC-qy-GDY',
+  link_data: { link_target: 'https://m.youtube.com/watch?v=oQOC-qy-GDY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=hIFrG_6fySg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=hIFrG_6fySg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=UBr3MM9_zd4',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=UBr3MM9_zd4' } }
+{ type: 'LINK',
+  text: 'elleluna@gmail.com',
+  link_data: 
+   { link_target: 'mailto:elleluna@gmail.com',
+     display_url: 'elleluna@gmail.com' } }
+{ type: 'LINK',
+  text: 'elleluna@gmail.com',
+  link_data: 
+   { link_target: 'mailto:elleluna@gmail.com',
+     display_url: 'elleluna@gmail.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=YuOBzWF0Aws',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=YuOBzWF0Aws' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=B759dzymyoc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=B759dzymyoc' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/WuP78X6H5JU',
+  link_data: { link_target: 'http://youtu.be/WuP78X6H5JU' } }
+{ type: 'LINK',
+  text: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=NGHPCaDfq_8',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=NGHPCaDfq_8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=9V_0xDUg0h0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=9V_0xDUg0h0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=yXoZCAVTzEQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=yXoZCAVTzEQ',
+     display_url: 'http://www.youtube.com/watch?v=yXoZCAVTzEQ' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=H8qrLmX-bdg&feature=share&t=7m11s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=H8qrLmX-bdg&feature=share&t=7m11s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=n7GyLr7Cz2g',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=n7GyLr7Cz2g',
+     display_url: 'https://www.youtube.com/watch?v=n7GyLr7Cz2g' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=uejh-bHa4To',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=uejh-bHa4To',
+     display_url: 'https://www.youtube.com/watch?v=uejh-bHa4To' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=XA1cX-wgMdM',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=XA1cX-wgMdM',
+     display_url: 'https://www.youtube.com/watch?v=XA1cX-wgMdM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/user/numberphile',
+  link_data: 
+   { link_target: 'https://www.youtube.com/user/numberphile',
+     display_url: 'https://www.youtube.com/user/numberphile' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=WcZqwR9tbJE',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=WcZqwR9tbJE',
+     display_url: 'https://www.youtube.com/watch?v=WcZqwR9tbJE' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=yaZ5JfNQq54',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=yaZ5JfNQq54',
+     display_url: 'https://www.youtube.com/watch?v=yaZ5JfNQq54' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=DjZ_Mmjs3bc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=DjZ_Mmjs3bc',
+     display_url: 'http://www.youtube.com/watch?v=DjZ_Mmjs3bc' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=KblVVvO0B9k#t=392',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=KblVVvO0B9k#t=392',
+     display_url: 'http://www.youtube.com/watch?v=KblVVvO0B9k#t=392' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=69V__a49xtw',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=69V__a49xtw',
+     display_url: 'http://www.youtube.com/watch?v=69V__a49xtw' } }
+{ type: 'LINK',
+  text: 'dev@spiceworks.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:dev@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=1KeYzjILqDo',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=1KeYzjILqDo',
+     display_url: 'https://www.youtube.com/watch?v=1KeYzjILqDo' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=4RGbrEmVrhc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=4RGbrEmVrhc',
+     display_url: 'http://www.youtube.com/watch?v=4RGbrEmVrhc' } }
+{ type: 'LINK',
+  text: 'http://kutkutx.appspot.com/stream?callback=JSON_CALLBACK',
+  link_data: 
+   { link_target: 'http://kutkutx.appspot.com/stream?callback=JSON_CALLBACK',
+     display_url: 'http://kutkutx.appspot.com/stream?callback=JSON_CALLBACK' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=%22chalk+full+of+awesome%22&oq=%22chalk+full+of+awesome%22&aqs=chrome.0.69i57j0.9675j0&sourceid=chrome&ie=UTF-8#fp=d1f8a98af2b222b7&q=%22chalk+full%22+spiceworks&safe=active',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=%22chalk+full+of+awesome%22&oq=%22chalk+full+of+awesome%22&aqs=chrome.0.69i57j0.9675j0&sourceid=chrome&ie=UTF-8#fp=d1f8a98af2b222b7&q=%22chalk+full%22+spiceworks&safe=active',
+     display_url: 'https://www.google.com/search?q=%22chalk+full+of+awesome%22&oq=%22chalk+full+of+awesome%22&aqs=chrome.0.69i57j0.9675j0&sourceid=chrome&ie=UTF-8#fp=d1f8a98af2b222b7&q=%22chalk+full%22+spiceworks&safe=active' } }
+{ type: 'LINK',
+  text: 'https://play.google.com/store/movies/details?id=BeEkAnCesxw&reviewId=Z3A6QU9xcFRPRVQtbl9vNENfSHUwRHNUVEZLVVczTFotUTdDZkZwS3FPUDBRYVNkVmxkWTJ0UTEtSXFhWElIaGd6YWRjeEwxa1Y2RFB4aUplU0U0RUE',
+  link_data: 
+   { link_target: 'https://play.google.com/store/movies/details?id=BeEkAnCesxw&reviewId=Z3A6QU9xcFRPRVQtbl9vNENfSHUwRHNUVEZLVVczTFotUTdDZkZwS3FPUDBRYVNkVmxkWTJ0UTEtSXFhWElIaGd6YWRjeEwxa1Y2RFB4aUplU0U0RUE',
+     display_url: 'https://play.google.com/store/movies/details?id=BeEkAnCesxw&reviewId=Z3A6QU9xcFRPRVQtbl9vNENfSHUwRHNUVEZLVVczTFotUTdDZkZwS3FPUDBRYVNkVmxkWTJ0UTEtSXFhWElIaGd6YWRjeEwxa1Y2RFB4aUplU0U0RUE' } }
+{ type: 'LINK',
+  text: 'jeffxl@gmail.com',
+  link_data: 
+   { link_target: 'mailto:jeffxl@gmail.com',
+     display_url: 'jeffxl@gmail.com' } }
+{ type: 'LINK',
+  text: 'stephen@1800therapist.com',
+  link_data: 
+   { link_target: 'mailto:stephen@1800therapist.com',
+     display_url: 'stephen@1800therapist.com' } }
+{ type: 'LINK',
+  text: 'stephen@1800therapist.com',
+  link_data: 
+   { link_target: 'mailto:stephen@1800therapist.com',
+     display_url: 'stephen@1800therapist.com' } }
+{ type: 'LINK',
+  text: 'sam.middleton@tclarke.co.uk',
+  link_data: 
+   { link_target: 'mailto:sam.middleton@tclarke.co.uk',
+     display_url: 'sam.middleton@tclarke.co.uk' } }
+{ type: 'LINK',
+  text: 'sam.middleton@tclarke.co.uk',
+  link_data: 
+   { link_target: 'mailto:sam.middleton@tclarke.co.uk',
+     display_url: 'sam.middleton@tclarke.co.uk' } }
+{ type: 'LINK',
+  text: 'jay@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:jay@spiceworks.com',
+     display_url: 'jay@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'jay@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:jay@spiceworks.com',
+     display_url: 'jay@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'brandon@atsoft.at',
+  link_data: 
+   { link_target: 'mailto:brandon@atsoft.at',
+     display_url: 'brandon@atsoft.at' } }
+{ type: 'LINK',
+  text: 'brandon@atsoft.at',
+  link_data: 
+   { link_target: 'mailto:brandon@atsoft.at',
+     display_url: 'brandon@atsoft.at' } }
+{ type: 'LINK',
+  text: 'michaelg@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:michaelg@spiceworks.com',
+     display_url: 'michaelg@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'michaelg@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:michaelg@spiceworks.com',
+     display_url: 'michaelg@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'michael.davis@midlandchs.org',
+  link_data: 
+   { link_target: 'mailto:michael.davis@midlandchs.org',
+     display_url: 'michael.davis@midlandchs.org' } }
+{ type: 'LINK',
+  text: 'michael.davis@midlandchs.org',
+  link_data: 
+   { link_target: 'mailto:michael.davis@midlandchs.org',
+     display_url: 'michael.davis@midlandchs.org' } }
+{ type: 'LINK',
+  text: 'klingonbutts@startrek.ner',
+  link_data: 
+   { link_target: 'mailto:klingonbutts@startrek.ner',
+     display_url: 'klingonbutts@startrek.ner' } }
+{ type: 'LINK',
+  text: 'mikec@thisismap.com',
+  link_data: 
+   { link_target: 'mailto:mikec@thisismap.com',
+     display_url: 'mikec@thisismap.com' } }
+{ type: 'LINK',
+  text: 'mikec@thisismap.com',
+  link_data: 
+   { link_target: 'mailto:mikec@thisismap.com',
+     display_url: 'mikec@thisismap.com' } }
+{ type: 'LINK',
+  text: 'jamescable82@gmail.com',
+  link_data: 
+   { link_target: 'mailto:jamescable82@gmail.com',
+     display_url: 'jamescable82@gmail.com' } }
+{ type: 'LINK',
+  text: 'jamescable82@gmail.com',
+  link_data: 
+   { link_target: 'mailto:jamescable82@gmail.com',
+     display_url: 'jamescable82@gmail.com' } }
+{ type: 'LINK',
+  text: 'robd@rockfordortho.com',
+  link_data: 
+   { link_target: 'mailto:robd@rockfordortho.com',
+     display_url: 'robd@rockfordortho.com' } }
+{ type: 'LINK',
+  text: 'robd@rockfordortho.com',
+  link_data: 
+   { link_target: 'mailto:robd@rockfordortho.com',
+     display_url: 'robd@rockfordortho.com' } }
+{ type: 'LINK',
+  text: 'bryce.d.hays@gmail.com',
+  link_data: 
+   { link_target: 'mailto:bryce.d.hays@gmail.com',
+     display_url: 'bryce.d.hays@gmail.com' } }
+{ type: 'LINK',
+  text: 'bryce.d.hays@gmail.com',
+  link_data: 
+   { link_target: 'mailto:bryce.d.hays@gmail.com',
+     display_url: 'bryce.d.hays@gmail.com' } }
+{ type: 'LINK',
+  text: 'bryceh@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:bryceh@spiceworks.com',
+     display_url: 'bryceh@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'bryceh@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:bryceh@spiceworks.com',
+     display_url: 'bryceh@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'timg@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:timg@spiceworks.com',
+     display_url: 'timg@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'timg@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:timg@spiceworks.com',
+     display_url: 'timg@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=UoK8DaJRDaM',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=UoK8DaJRDaM',
+     display_url: 'https://www.youtube.com/watch?v=UoK8DaJRDaM' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=RXzWWBYgI5E',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=RXzWWBYgI5E',
+     display_url: 'http://www.youtube.com/watch?v=RXzWWBYgI5E' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=RXzWWBYgI5E#at=4223',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=RXzWWBYgI5E#at=4223',
+     display_url: 'http://www.youtube.com/watch?v=RXzWWBYgI5E#at=4223' } }
+{ type: 'LINK',
+  text: 'https://plus.google.com/hangouts/_/calendar/aGFsYUBhc3NlbWJsZXN5c3RlbXMuY29t.scmearu09085ljnpq3m2edfqis?authuser=0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://plus.google.com/hangouts/_/calendar/aGFsYUBhc3NlbWJsZXN5c3RlbXMuY29t.scmearu09085ljnpq3m2edfqis?authuser=0' } }
+{ type: 'LINK',
+  text: 'https://rubygems.org\'',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://rubygems.org\'' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=QrGrOK8oZG8',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=QrGrOK8oZG8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=P03yWIMDtLk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=P03yWIMDtLk',
+     display_url: 'https://www.youtube.com/watch?v=P03yWIMDtLk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?feature=player_detailpage&v=l6t9g5p094g#t=40',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?feature=player_detailpage&v=l6t9g5p094g#t=40' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=l6t9g5p094g&t=39',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=l6t9g5p094g&t=39' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=wXiYmS18cZM',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=wXiYmS18cZM',
+     display_url: 'https://www.youtube.com/watch?v=wXiYmS18cZM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=rPq2cF4l9qc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=rPq2cF4l9qc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=A6s49OKp6aE',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=A6s49OKp6aE',
+     display_url: 'https://www.youtube.com/watch?v=A6s49OKp6aE' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=QAxz16D4BlE',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=QAxz16D4BlE' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=qGF6mc7bu_U',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=qGF6mc7bu_U' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=sTJ7AzBIJoI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=sTJ7AzBIJoI' } }
+{ type: 'LINK',
+  text: 'https://chrome.google.com/webstore/detail/delayed-gratification/eacjcpfjdlcdggndfhkmlpnhedggdhke',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://chrome.google.com/webstore/detail/delayed-gratification/eacjcpfjdlcdggndfhkmlpnhedggdhke' } }
+{ type: 'LINK',
+  text: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc/related',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc/related' } }
+{ type: 'LINK',
+  text: 'http://lh5.googleusercontent.com/-8i2hvzZ-cXE/U7F46TVqfwI/AAAAAAAATPs/u4CHv-PQLxE/w426-h725/white+men+cant.gif',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://lh5.googleusercontent.com/-8i2hvzZ-cXE/U7F46TVqfwI/AAAAAAAATPs/u4CHv-PQLxE/w426-h725/white+men+cant.gif' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ZlaA0_z4Rgg&t=44m45s',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=ZlaA0_z4Rgg&t=44m45s',
+     display_url: 'https://www.youtube.com/watch?v=ZlaA0_z4Rgg&t=44m45s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=co_DNpTMKXk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=co_DNpTMKXk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=F5sw-RQotrk&list=PL777E5C6636D0A40A&index=2',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=F5sw-RQotrk&list=PL777E5C6636D0A40A&index=2' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=4Q-5Ad38SHQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=4Q-5Ad38SHQ',
+     display_url: 'http://www.youtube.com/watch?v=4Q-5Ad38SHQ' } }
+{ type: 'LINK',
+  text: 'aaron@onestoryproductions.com',
+  link_data: 
+   { link_target: 'mailto:aaron@onestoryproductions.com',
+     display_url: 'aaron@onestoryproductions.com' } }
+{ type: 'LINK',
+  text: 'aaron@onestoryproductions.com',
+  link_data: 
+   { link_target: 'mailto:aaron@onestoryproductions.com',
+     display_url: 'aaron@onestoryproductions.com' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=g3AMQCf4lj4',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=g3AMQCf4lj4',
+     display_url: 'http://www.youtube.com/watch?v=g3AMQCf4lj4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KFiRQEyo6vI',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=KFiRQEyo6vI',
+     display_url: 'https://www.youtube.com/watch?v=KFiRQEyo6vI' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=qd0n7FGVfHE',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=qd0n7FGVfHE',
+     display_url: 'http://www.youtube.com/watch?v=qd0n7FGVfHE' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=h-8PBx7isoM',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=h-8PBx7isoM',
+     display_url: 'http://www.youtube.com/watch?v=h-8PBx7isoM' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=q9qhuujsQDE&feature=youtu.be',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=q9qhuujsQDE&feature=youtu.be',
+     display_url: 'http://www.youtube.com/watch?v=q9qhuujsQDE&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=PLjleuyeGuY&feature=player_detailpage#t=128',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=PLjleuyeGuY&feature=player_detailpage#t=128',
+     display_url: 'http://www.youtube.com/watch?v=PLjleuyeGuY&feature=player_detailpage#t=128' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=trjf96ohSEo&feature=youtu.be',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=trjf96ohSEo&feature=youtu.be',
+     display_url: 'https://www.youtube.com/watch?v=trjf96ohSEo&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=trjf96ohSEo#t=526',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=trjf96ohSEo#t=526',
+     display_url: 'https://www.youtube.com/watch?v=trjf96ohSEo#t=526' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=lcUeothSPyc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=lcUeothSPyc' } }
+{ type: 'LINK',
+  text: 'https://plus.google.com/hangouts/_/gu2egl3hsr4qdrukrqvc6hzicya?hl=en-US',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://plus.google.com/hangouts/_/gu2egl3hsr4qdrukrqvc6hzicya?hl=en-US' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=qpObCUeOe5Y',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=qpObCUeOe5Y' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=JcniyQYFU6M&feature=kp',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=JcniyQYFU6M&feature=kp' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=JcniyQYFU6M&feature=kp',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=JcniyQYFU6M&feature=kp' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=dbbque0Y4FU',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=dbbque0Y4FU' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=yflTu150QZw',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=yflTu150QZw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=CsGYh8AacgY',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=CsGYh8AacgY' } }
+{ type: 'LINK',
+  text: 'https://m.youtube.com/watch?v=qtsNbxgPngA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://m.youtube.com/watch?v=qtsNbxgPngA' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/maps/@30.463855,-84.28253,3a,75y,42.1h,92.82t/data=!3m4!1e1!3m2!1ssmsA4kg9Kn5DaSUg3tsQVA!2e0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.google.com/maps/@30.463855,-84.28253,3a,75y,42.1h,92.82t/data=!3m4!1e1!3m2!1ssmsA4kg9Kn5DaSUg3tsQVA!2e0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=GbkOwoZLey0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=GbkOwoZLey0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=f2rgzsO-AMM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=f2rgzsO-AMM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=vuKnR8RvxHY',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=vuKnR8RvxHY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=kOCTkH2DdpA&feature=youtu.be',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=kOCTkH2DdpA&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://youtu.be/cIlF_0Dz8vY',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://youtu.be/cIlF_0Dz8vY' } }
+{ type: 'LINK',
+  text: 'https://m.youtube.com/watch?v=KHZ8ek-6ccc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://m.youtube.com/watch?v=KHZ8ek-6ccc' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/WoMRgVR00po',
+  link_data: { link_target: 'http://youtu.be/WoMRgVR00po' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KnUEecEs3Xk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=KnUEecEs3Xk' } }
+{ type: 'LINK',
+  text: 'https://youtu.be/bekvgMEcgqI?t=3m46s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://youtu.be/bekvgMEcgqI?t=3m46s' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=salt+life+stickers&espv=2&biw=1440&bih=801&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAmoVChMIv4bA2pCSxgIVRSOsCh1WeAB5#tbm=isch&q=salt+life+stickers+on+cars',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.google.com/search?q=salt+life+stickers&espv=2&biw=1440&bih=801&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAmoVChMIv4bA2pCSxgIVRSOsCh1WeAB5#tbm=isch&q=salt+life+stickers+on+cars' } }
+{ type: 'LINK',
+  text: 'mattheww@spiceworks.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:mattheww@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'https://plus.google.com/+ClaireBlackshaw/posts/TeHfuHLWMFw',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://plus.google.com/+ClaireBlackshaw/posts/TeHfuHLWMFw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=0FwOtHso5Wg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=0FwOtHso5Wg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Jm9bEizIGBE',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Jm9bEizIGBE',
+     display_url: 'https://www.youtube.com/watch?v=Jm9bEizIGBE' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=wJZGxL-8DTk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=wJZGxL-8DTk',
+     display_url: 'https://www.youtube.com/watch?v=wJZGxL-8DTk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ZWOkZ_c8vxk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ZWOkZ_c8vxk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=W93jDIVVV_k',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=W93jDIVVV_k' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ZWOkZ_c8vxk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ZWOkZ_c8vxk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Cb8Y42FMRGM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=Cb8Y42FMRGM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=_gyvipBs6Vs',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=_gyvipBs6Vs' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?feature=player_embedded&v=Tj-GZJhfBmI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?feature=player_embedded&v=Tj-GZJhfBmI' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/QDAAACqiYr8?t=1m35s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://youtu.be/QDAAACqiYr8?t=1m35s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=EjL6c33z2ZU',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=EjL6c33z2ZU' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KYgEn_xQQKI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=KYgEn_xQQKI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=SRHoPL0WtdM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=SRHoPL0WtdM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=x_M9zWORBuA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=x_M9zWORBuA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=_li_d_YviZ4',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=_li_d_YviZ4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Vk1YtbkZTqc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=Vk1YtbkZTqc' } }
+{ type: 'LINK',
+  text: 'https://docs.google.com/document/d/1ldMGIxSgl7JZWATJA0U3WPPo6L1rMhFdSvUu-GU22ek/edit',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://docs.google.com/document/d/1ldMGIxSgl7JZWATJA0U3WPPo6L1rMhFdSvUu-GU22ek/edit' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?feature=player_embedded&v=Q2daFOY9e4Q',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?feature=player_embedded&v=Q2daFOY9e4Q' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ABymhwrzJNA&feature=youtu.be',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ABymhwrzJNA&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=sONc6KR3RS4',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=sONc6KR3RS4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=DAQyOzvAqfA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=DAQyOzvAqfA' } }
+{ type: 'LINK',
+  text: 'https://cardboard.withgoogle.com/',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://cardboard.withgoogle.com/' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=l6t9g5p094g&t=39',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=l6t9g5p094g&t=39' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=v-Zph323Dos',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=v-Zph323Dos',
+     display_url: 'http://www.youtube.com/watch?v=v-Zph323Dos' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Y-1vLkk-mH4',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Y-1vLkk-mH4',
+     display_url: 'http://www.youtube.com/watch?v=Y-1vLkk-mH4' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=4AZtWGB1Khc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=4AZtWGB1Khc',
+     display_url: 'http://www.youtube.com/watch?v=4AZtWGB1Khc' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=efiW2K8gASM',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=efiW2K8gASM',
+     display_url: 'http://www.youtube.com/watch?v=efiW2K8gASM' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/CXtsEhUwTmc?t=3m40s',
+  link_data: 
+   { link_target: 'http://youtu.be/CXtsEhUwTmc?t=3m40s',
+     display_url: 'http://youtu.be/CXtsEhUwTmc?t=3m40s' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=eY3ySdMpqn0',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=eY3ySdMpqn0',
+     display_url: 'http://www.youtube.com/watch?v=eY3ySdMpqn0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=YA1J-raGinQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=YA1J-raGinQ',
+     display_url: 'http://www.youtube.com/watch?v=YA1J-raGinQ' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=WWqbjQ6EdCU&t=60',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=WWqbjQ6EdCU&t=60',
+     display_url: 'http://www.youtube.com/watch?v=WWqbjQ6EdCU&t=60' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ZxOBInMi3l0',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=ZxOBInMi3l0',
+     display_url: 'http://www.youtube.com/watch?v=ZxOBInMi3l0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ixMVuOslebI',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=ixMVuOslebI',
+     display_url: 'http://www.youtube.com/watch?v=ixMVuOslebI' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?feature=player_embedded&v=3Kf_RYVt2XQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?feature=player_embedded&v=3Kf_RYVt2XQ',
+     display_url: 'http://www.youtube.com/watch?feature=player_embedded&v=3Kf_RYVt2XQ' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=hn1VxaMEjRU',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=hn1VxaMEjRU',
+     display_url: 'http://www.youtube.com/watch?v=hn1VxaMEjRU' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=rfNqyjZcleI',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=rfNqyjZcleI',
+     display_url: 'http://www.youtube.com/watch?v=rfNqyjZcleI' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=GaoLU6zKaws',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=GaoLU6zKaws',
+     display_url: 'http://www.youtube.com/watch?v=GaoLU6zKaws' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Nvtz66EySfU',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Nvtz66EySfU',
+     display_url: 'https://www.youtube.com/watch?v=Nvtz66EySfU' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ZEY8VKWDUJc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=ZEY8VKWDUJc',
+     display_url: 'http://www.youtube.com/watch?v=ZEY8VKWDUJc' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/-WCFUGCOLLU?t=49s',
+  link_data: 
+   { link_target: 'http://youtu.be/-WCFUGCOLLU?t=49s',
+     display_url: 'http://youtu.be/-WCFUGCOLLU?t=49s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?feature=player_embedded&v=QrxPuk0JefA',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?feature=player_embedded&v=QrxPuk0JefA',
+     display_url: 'https://www.youtube.com/watch?feature=player_embedded&v=QrxPuk0JefA' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=-7HWWjCU0xY',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?v=-7HWWjCU0xY' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=rP7r12Rg490',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=rP7r12Rg490',
+     display_url: 'http://www.youtube.com/watch?v=rP7r12Rg490' } }
+{ type: 'LINK',
+  text: 'http://maps.googleapis.com/maps/api/staticmap?scale=2&markers=label:S|30.372616,-97.8022563&markers=label:E|30.220157,-97.797572&path=enc:}`kxDrg}sQvDuApBcAjAu@dD_C~AcA|AiApAmAnA}Ab@s@hBwD~ByEp@_Al@{@lB{At@a@bIaE|AcAjDsCvFcFZYNE',
+  link_data: 
+   { link_target: 'http://maps.googleapis.com/maps/api/staticmap?scale=2&markers=label:S|30.372616,-97.8022563&markers=label:E|30.220157,-97.797572&path=enc:}`kxDrg}sQvDuApBcAjAu@dD_C~AcA|AiApAmAnA}Ab@s@hBwD~ByEp@_Al@{@lB{At@a@bIaE|AcAjDsCvFcFZYNE',
+     display_url: 'http://maps.googleapis.com/maps/api/staticmap?scale=2&markers=label:S|30.372616,-97.8022563&markers=label:E|30.220157,-97.797572&path=enc:}`kxDrg}sQvDuApBcAjAu@dD_C~AcA|AiApAmAnA}Ab@s@hBwD~ByEp@_Al@{@lB{At@a@bIaE|AcAjDsCvFcFZYNE' } }
+{ type: 'LINK',
+  text: 'http://maps.googleapis.com/maps/api/staticmap?scale=2&markers=label:S%7C30.372616,-97.8022563&markers=label:E%7C30.220157,-97.797572&path=enc:%7D%60kxDrg%7DsQvDuApBcAjAu@dD_C~AcA%7CAiApAmAnA%7DAb@s@hBwD~ByEp@_Al@%7B@lB%7BAt@a@bIaE%7CAcAjDsCvFcFZYNE%5EWp@m@TE%60@WpAq@t@%5Bl@Qn@I%7C@@pAPP?DAhCt@pCr@%60B%5EdAf@XLVHlAl@rNvHjB~@%7CBdAnAp@b@%5ClC%60BdEvBzC%60BfGdDv@f@d@%5EnC~AhCrArBdA%7C@l@fCzAbG%60D~OzI%60NnH%7CIdFjG~CpEfCjDxBpB%60A%7CDvB~DfC%60I%7CDxJfFl@%5E%60Ar@~@r@rAj@%7C@ZrFrCvBfBnAzAv@dAfAlBn@%60B~B%60GjAjC%7CBzFrAvClBtEfAjCrBxElAvC%60BvCzApBlAjAj@b@hAt@PTvCjAdAXx@LnBLdBDdAAn@AtBGx@KxDy@%60FoAhGiAnCi@xASfAKrCAnBPv@Nx@RhAd@lChArCxA%7CEdCb@NzC~@%7CCp@lAP%7C@HpELfD?hIJv@@rOf@jFD%7C@AzBMzAOfCc@%7CA_@fBi@pAg@xC%7DAfAu@tM%7DIdP%7DKtKeHtNwJbEsCxBuAx@e@%7C@c@xAg@x@QrAO%60AGnBElEP%60EX~RjAtCNrA?dCS%60Ce@~B%7B@jC%7BA%7CAiAn_@kXnCqBbBiApAeAzRuNnHoFpByA~CaCdCcBxKeIlAaA%5C%5BvBwA%7C@i@dB%7D@jDwAhAYtDyAfLsEzEmBfE_BtFwBRAdA_@%7CGkBvBo@lBo@dAi@%60@YjA_AdAMl@HVLRTl@pA%7C@%60Fl@~DR%7CA%5EGZEz@Ml@IbBE%5C?jCf@V@hFhAnA%5ElAj@zFfD%7CA%7CAnAxAd@%60@t@%60@fBx@jAcDdDsIdJ%7DUhCxANPLTLLnAt@fBsEVDfALJB&size=600x600&sensor=false',
+  link_data: 
+   { link_target: 'http://maps.googleapis.com/maps/api/staticmap?scale=2&markers=label:S%7C30.372616,-97.8022563&markers=label:E%7C30.220157,-97.797572&path=enc:%7D%60kxDrg%7DsQvDuApBcAjAu@dD_C~AcA%7CAiApAmAnA%7DAb@s@hBwD~ByEp@_Al@%7B@lB%7BAt@a@bIaE%7CAcAjDsCvFcFZYNE%5EWp@m@TE%60@WpAq@t@%5Bl@Qn@I%7C@@pAPP?DAhCt@pCr@%60B%5EdAf@XLVHlAl@rNvHjB~@%7CBdAnAp@b@%5ClC%60BdEvBzC%60BfGdDv@f@d@%5EnC~AhCrArBdA%7C@l@fCzAbG%60D~OzI%60NnH%7CIdFjG~CpEfCjDxBpB%60A%7CDvB~DfC%60I%7CDxJfFl@%5E%60Ar@~@r@rAj@%7C@ZrFrCvBfBnAzAv@dAfAlBn@%60B~B%60GjAjC%7CBzFrAvClBtEfAjCrBxElAvC%60BvCzApBlAjAj@b@hAt@PTvCjAdAXx@LnBLdBDdAAn@AtBGx@KxDy@%60FoAhGiAnCi@xASfAKrCAnBPv@Nx@RhAd@lChArCxA%7CEdCb@NzC~@%7CCp@lAP%7C@HpELfD?hIJv@@rOf@jFD%7C@AzBMzAOfCc@%7CA_@fBi@pAg@xC%7DAfAu@tM%7DIdP%7DKtKeHtNwJbEsCxBuAx@e@%7C@c@xAg@x@QrAO%60AGnBElEP%60EX~RjAtCNrA?dCS%60Ce@~B%7B@jC%7BA%7CAiAn_@kXnCqBbBiApAeAzRuNnHoFpByA~CaCdCcBxKeIlAaA%5C%5BvBwA%7C@i@dB%7D@jDwAhAYtDyAfLsEzEmBfE_BtFwBRAdA_@%7CGkBvBo@lBo@dAi@%60@YjA_AdAMl@HVLRTl@pA%7C@%60Fl@~DR%7CA%5EGZEz@Ml@IbBE%5C?jCf@V@hFhAnA%5ElAj@zFfD%7CA%7CAnAxAd@%60@t@%60@fBx@jAcDdDsIdJ%7DUhCxANPLTLLnAt@fBsEVDfALJB&size=600x600&sensor=false',
+     display_url: 'http://maps.googleapis.com/maps/api/staticmap?scale=2&markers=label:S%7C30.372616,-97.8022563&markers=label:E%7C30.220157,-97.797572&path=enc:%7D%60kxDrg%7DsQvDuApBcAjAu@dD_C~AcA%7CAiApAmAnA%7DAb@s@hBwD~ByEp@_Al@%7B@lB%7BAt@a@bIaE%7CAcAjDsCvFcFZYNE%5EWp@m@TE%60@WpAq@t@%5Bl@Qn@I%7C@@pAPP?DAhCt@pCr@%60B%5EdAf@XLVHlAl@rNvHjB~@%7CBdAnAp@b@%5ClC%60BdEvBzC%60BfGdDv@f@d@%5EnC~AhCrArBdA%7C@l@fCzAbG%60D~OzI%60NnH%7CIdFjG~CpEfCjDxBpB%60A%7CDvB~DfC%60I%7CDxJfFl@%5E%60Ar@~@r@rAj@%7C@ZrFrCvBfBnAzAv@dAfAlBn@%60B~B%60GjAjC%7CBzFrAvClBtEfAjCrBxElAvC%60BvCzApBlAjAj@b@hAt@PTvCjAdAXx@LnBLdBDdAAn@AtBGx@KxDy@%60FoAhGiAnCi@xASfAKrCAnBPv@Nx@RhAd@lChArCxA%7CEdCb@NzC~@%7CCp@lAP%7C@HpELfD?hIJv@@rOf@jFD%7C@AzBMzAOfCc@%7CA_@fBi@pAg@xC%7DAfAu@tM%7DIdP%7DKtKeHtNwJbEsCxBuAx@e@%7C@c@xAg@x@QrAO%60AGnBElEP%60EX~RjAtCNrA?dCS%60Ce@~B%7B@jC%7BA%7CAiAn_@kXnCqBbBiApAeAzRuNnHoFpByA~CaCdCcBxKeIlAaA%5C%5BvBwA%7C@i@dB%7D@jDwAhAYtDyAfLsEzEmBfE_BtFwBRAdA_@%7CGkBvBo@lBo@dAi@%60@YjA_AdAMl@HVLRTl@pA%7C@%60Fl@~DR%7CA%5EGZEz@Ml@IbBE%5C?jCf@V@hFhAnA%5ElAj@zFfD%7CA%7CAnAxAd@%60@t@%60@fBx@jAcDdDsIdJ%7DUhCxANPLTLLnAt@fBsEVDfALJB&size=600x600&sensor=false' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=H8qrLmX-bdg&feature=share&t=7m11s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?v=H8qrLmX-bdg&feature=share&t=7m11s' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=BKorP55Aqvg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?v=BKorP55Aqvg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=XTQrAIn6xFc&list=PL92F847FEB08D0243&t=175',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=XTQrAIn6xFc&list=PL92F847FEB08D0243&t=175',
+     display_url: 'https://www.youtube.com/watch?v=XTQrAIn6xFc&list=PL92F847FEB08D0243&t=175' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=UoK8DaJRDaM',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=UoK8DaJRDaM',
+     display_url: 'https://www.youtube.com/watch?v=UoK8DaJRDaM' } }
+{ type: 'LINK',
+  text: 'http://chrome.com/campaigns/rollit',
+  link_data: 
+   { link_target: 'http://chrome.com/campaigns/rollit',
+     display_url: 'http://chrome.com/campaigns/rollit' } }
+{ type: 'LINK',
+  text: 'http://www.chromeexperiments.com/detail/racer/?f=',
+  link_data: 
+   { link_target: 'http://www.chromeexperiments.com/detail/racer/?f=',
+     display_url: 'http://www.chromeexperiments.com/detail/racer/?f=' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/tpAw0VCUgm0',
+  link_data: 
+   { link_target: 'http://youtu.be/tpAw0VCUgm0',
+     display_url: 'http://youtu.be/tpAw0VCUgm0' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/wgei5ImLXKo',
+  link_data: 
+   { link_target: 'http://youtu.be/wgei5ImLXKo',
+     display_url: 'http://youtu.be/wgei5ImLXKo' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=RYbe-35_BaA&feature=player_embedded',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=RYbe-35_BaA&feature=player_embedded',
+     display_url: 'http://www.youtube.com/watch?v=RYbe-35_BaA&feature=player_embedded' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?feature=player_embedded&v=Xfcoi20CL8c',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?feature=player_embedded&v=Xfcoi20CL8c',
+     display_url: 'http://www.youtube.com/watch?feature=player_embedded&v=Xfcoi20CL8c' } }
+{ type: 'LINK',
+  text: 'https://docs.google.com/spreadsheet/ccc?key=0AupyG5OArSuedFRueUtRNjFNRDM1TkZNbTR6cUNZdEE#gid=10',
+  link_data: 
+   { link_target: 'https://docs.google.com/spreadsheet/ccc?key=0AupyG5OArSuedFRueUtRNjFNRDM1TkZNbTR6cUNZdEE#gid=10',
+     display_url: 'https://docs.google.com/spreadsheet/ccc?key=0AupyG5OArSuedFRueUtRNjFNRDM1TkZNbTR6cUNZdEE#gid=10' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=hOs6jlUd01Y',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=hOs6jlUd01Y',
+     display_url: 'http://www.youtube.com/watch?v=hOs6jlUd01Y' } }
+{ type: 'LINK',
+  text: 'jeff@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:jeff@spiceworks.com',
+     display_url: 'jeff@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'jeff@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:jeff@spiceworks.com',
+     display_url: 'jeff@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/FMfAFWo6Yec',
+  link_data: 
+   { link_target: 'http://youtu.be/FMfAFWo6Yec',
+     display_url: 'http://youtu.be/FMfAFWo6Yec' } }
+{ type: 'LINK',
+  text: 'it_billing@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:it_billing@spiceworks.com',
+     display_url: 'it_billing@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'it_billing@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:it_billing@spiceworks.com',
+     display_url: 'it_billing@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=zb4vhJaX1hw&list=FLzsvyUUIEqNpbuU5e7sOOXg&index=2',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=zb4vhJaX1hw&list=FLzsvyUUIEqNpbuU5e7sOOXg&index=2',
+     display_url: 'http://www.youtube.com/watch?v=zb4vhJaX1hw&list=FLzsvyUUIEqNpbuU5e7sOOXg&index=2' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=aR7GUiiKEz0',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=aR7GUiiKEz0',
+     display_url: 'http://www.youtube.com/watch?v=aR7GUiiKEz0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=vwSpDDczIdg',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=vwSpDDczIdg',
+     display_url: 'http://www.youtube.com/watch?v=vwSpDDczIdg' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=zqAdxN1IWQQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=zqAdxN1IWQQ',
+     display_url: 'http://www.youtube.com/watch?v=zqAdxN1IWQQ' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ddRU9bSxntE',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=ddRU9bSxntE',
+     display_url: 'http://www.youtube.com/watch?v=ddRU9bSxntE' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=lL0WayC7jW0',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=lL0WayC7jW0',
+     display_url: 'http://www.youtube.com/watch?v=lL0WayC7jW0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=IZW4L5u77OA',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=IZW4L5u77OA',
+     display_url: 'https://www.youtube.com/watch?v=IZW4L5u77OA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Xr2mjjSyvA4',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Xr2mjjSyvA4',
+     display_url: 'https://www.youtube.com/watch?v=Xr2mjjSyvA4' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=OM7HHB51WX8',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=OM7HHB51WX8',
+     display_url: 'http://www.youtube.com/watch?v=OM7HHB51WX8' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=0IUSSrldd0U',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=0IUSSrldd0U',
+     display_url: 'http://www.youtube.com/watch?v=0IUSSrldd0U' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Zl12dXYcUTo#at=15',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Zl12dXYcUTo#at=15',
+     display_url: 'http://www.youtube.com/watch?v=Zl12dXYcUTo#at=15' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=sme9QbBOT9U#at=102',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=sme9QbBOT9U#at=102',
+     display_url: 'http://www.youtube.com/watch?v=sme9QbBOT9U#at=102' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=gggDqQ5yh6o',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=gggDqQ5yh6o',
+     display_url: 'https://www.youtube.com/watch?v=gggDqQ5yh6o' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Y6fGbG7-RqA&list=RD04HFIQIpC5_wY',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Y6fGbG7-RqA&list=RD04HFIQIpC5_wY',
+     display_url: 'http://www.youtube.com/watch?v=Y6fGbG7-RqA&list=RD04HFIQIpC5_wY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=NWLBEm3dV9w&list=RD04HFIQIpC5_wY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=NWLBEm3dV9w&list=RD04HFIQIpC5_wY',
+     display_url: 'https://www.youtube.com/watch?v=NWLBEm3dV9w&list=RD04HFIQIpC5_wY' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=AzQTkiYlyi4&feature=youtu.be',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=AzQTkiYlyi4&feature=youtu.be',
+     display_url: 'http://www.youtube.com/watch?v=AzQTkiYlyi4&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=icnRMW6P9nc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=icnRMW6P9nc',
+     display_url: 'http://www.youtube.com/watch?v=icnRMW6P9nc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=xYc4DT18EJg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=xYc4DT18EJg',
+     display_url: 'https://www.youtube.com/watch?v=xYc4DT18EJg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=YdSfDeWQlII',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=YdSfDeWQlII',
+     display_url: 'https://www.youtube.com/watch?v=YdSfDeWQlII' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=4SSOTm0hEDQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=4SSOTm0hEDQ',
+     display_url: 'http://www.youtube.com/watch?v=4SSOTm0hEDQ' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=8vbnLYROCj8',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=8vbnLYROCj8',
+     display_url: 'http://www.youtube.com/watch?v=8vbnLYROCj8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=zPfZVSgpclw',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=zPfZVSgpclw',
+     display_url: 'https://www.youtube.com/watch?v=zPfZVSgpclw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=0IUSSrldd0U',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=0IUSSrldd0U',
+     display_url: 'https://www.youtube.com/watch?v=0IUSSrldd0U' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=AXj3f9Qphdo',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=AXj3f9Qphdo',
+     display_url: 'https://www.youtube.com/watch?v=AXj3f9Qphdo' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa',
+     display_url: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+     display_url: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+     display_url: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+     display_url: 'https://www.google.com/search?q=candace+cameron&es_sm=91&source=lnms&tbm=isch&sa=X&ei=AT5LUv3AEcTlygH1r4G4BQ&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa',
+     display_url: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+     display_url: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+     display_url: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1',
+     display_url: 'https://www.google.com/search?q=wil+wheaton&es_sm=91&source=lnms&tbm=isch&sa=X&ei=ZD5LUqvDJ-z_yQGIh4HoDA&ved=0CAkQ_AUoAQ&biw=1208&bih=718&dpr=1' } }
+{ type: 'LINK',
+  text: 'thecrusher@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:thecrusher@spiceworks.com',
+     display_url: 'thecrusher@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'thecrusher@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:thecrusher@spiceworks.com',
+     display_url: 'thecrusher@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=rGaqI20WHyk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=rGaqI20WHyk',
+     display_url: 'https://www.youtube.com/watch?v=rGaqI20WHyk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=copI0cM2e1Q',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=copI0cM2e1Q',
+     display_url: 'https://www.youtube.com/watch?v=copI0cM2e1Q' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=KFiRQEyo6vI',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=KFiRQEyo6vI',
+     display_url: 'http://www.youtube.com/watch?v=KFiRQEyo6vI' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=rqtr_RvR3sY',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=rqtr_RvR3sY',
+     display_url: 'http://www.youtube.com/watch?v=rqtr_RvR3sY' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=NHrobQ8IL24',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=NHrobQ8IL24',
+     display_url: 'http://www.youtube.com/watch?v=NHrobQ8IL24' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=mYKLvYGqaC0',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=mYKLvYGqaC0',
+     display_url: 'http://www.youtube.com/watch?v=mYKLvYGqaC0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=mqgiEQXGetI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=mqgiEQXGetI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=f2rgzsO-AMM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=f2rgzsO-AMM' } }
+{ type: 'LINK',
+  text: 'https://youtu.be/bQTXAhdksYg',
+  link_data: 
+   { link_target: 'https://youtu.be/bQTXAhdksYg',
+     display_url: 'https://youtu.be/bQTXAhdksYg' } }
+{ type: 'LINK',
+  text: 'https://m.youtube.com/watch?v=KHZ8ek-6ccc',
+  link_data: { link_target: 'https://m.youtube.com/watch?v=KHZ8ek-6ccc' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/WoMRgVR00po',
+  link_data: { link_target: 'http://youtu.be/WoMRgVR00po' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=qtsNbxgPngA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=qtsNbxgPngA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=lyz7TRjm1gY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=lyz7TRjm1gY',
+     display_url: 'https://www.youtube.com/watch?v=lyz7TRjm1gY' } }
+{ type: 'LINK',
+  text: 'https://books.google.com/books?id=0bvm3UgSlQcC&lpg=PA83&ots=GWz6uQePmX&dq=Before%20we%20even%20sit%20up%20in%20bed%2C%20before%20our%20feet%20touch%20the%20floor%2C%20we%27re%20already%20inadequate%2C&pg=PA83#v=onepage&q&f=false',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://books.google.com/books?id=0bvm3UgSlQcC&lpg=PA83&ots=GWz6uQePmX&dq=Before%20we%20even%20sit%20up%20in%20bed%2C%20before%20our%20feet%20touch%20the%20floor%2C%20we%27re%20already%20inadequate%2C&pg=PA83#v=onepage&q&f=false' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=jg4OCeSTL08',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=jg4OCeSTL08' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  link_data: 
+   { link_target: 'mailto:jeff@keen.me',
+     display_url: 'jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  link_data: 
+   { link_target: 'mailto:jeff@keen.me',
+     display_url: 'jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  link_data: 
+   { link_target: 'mailto:jeff@keen.me',
+     display_url: 'jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  link_data: 
+   { link_target: 'mailto:jeff@keen.me',
+     display_url: 'jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ysmLA5TqbIY&authuser=0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?v=ysmLA5TqbIY&authuser=0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=oZzgAjjuqZM&authuser=0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?v=oZzgAjjuqZM&authuser=0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ABymhwrzJNA&feature=youtu.be',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ABymhwrzJNA&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=CFh5FzXIeBg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=CFh5FzXIeBg',
+     display_url: 'https://www.youtube.com/watch?v=CFh5FzXIeBg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=RzdRQCnDBlw',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=RzdRQCnDBlw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=o1Asi3rxfRY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=o1Asi3rxfRY',
+     display_url: 'https://www.youtube.com/watch?v=o1Asi3rxfRY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=-ssJAaP4slw&t=20m24s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=-ssJAaP4slw&t=20m24s' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  link_data: 
+   { link_target: 'mailto:jeff@keen.me',
+     display_url: 'jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  link_data: 
+   { link_target: 'mailto:jeff@keen.me',
+     display_url: 'jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ninOz5ValUM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ninOz5ValUM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=4gFIAVAPDX0',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=4gFIAVAPDX0',
+     display_url: 'https://www.youtube.com/watch?v=4gFIAVAPDX0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=q9ndinF7F4o',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=q9ndinF7F4o',
+     display_url: 'http://www.youtube.com/watch?v=q9ndinF7F4o' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=WzV6mXIOVl4',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=WzV6mXIOVl4',
+     display_url: 'http://www.youtube.com/watch?v=WzV6mXIOVl4' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=copI0cM2e1Q',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=copI0cM2e1Q',
+     display_url: 'http://www.youtube.com/watch?v=copI0cM2e1Q' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=FoV_IAeOlD4',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=FoV_IAeOlD4',
+     display_url: 'http://www.youtube.com/watch?v=FoV_IAeOlD4' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=dfCsz2ACB9U',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=dfCsz2ACB9U',
+     display_url: 'http://www.youtube.com/watch?v=dfCsz2ACB9U' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=I66aySW4le8',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=I66aySW4le8',
+     display_url: 'https://www.youtube.com/watch?v=I66aySW4le8' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=YBn5dgXFMis',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=YBn5dgXFMis',
+     display_url: 'http://www.youtube.com/watch?v=YBn5dgXFMis' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=SrTpKmhbWB8',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=SrTpKmhbWB8',
+     display_url: 'http://www.youtube.com/watch?v=SrTpKmhbWB8' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=v5Ho4K5dFdg',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=v5Ho4K5dFdg',
+     display_url: 'http://www.youtube.com/watch?v=v5Ho4K5dFdg' } }
+{ type: 'LINK',
+  text: 'https://docs.google.com/document/d/1hfXauCDTrVHWp9GaUXs_fuf3kon1tiJeE0XjaHQaPlE/edit?usp=sharing',
+  link_data: 
+   { link_target: 'https://docs.google.com/document/d/1hfXauCDTrVHWp9GaUXs_fuf3kon1tiJeE0XjaHQaPlE/edit?usp=sharing',
+     display_url: 'https://docs.google.com/document/d/1hfXauCDTrVHWp9GaUXs_fuf3kon1tiJeE0XjaHQaPlE/edit?usp=sharing' } }
+{ type: 'LINK',
+  text: 'https://docs.google.com/document/d/1hfXauCDTrVHWp9GaUXs_fuf3kon1tiJeE0XjaHQaPlE/edit?usp=sharing',
+  link_data: 
+   { link_target: 'https://docs.google.com/document/d/1hfXauCDTrVHWp9GaUXs_fuf3kon1tiJeE0XjaHQaPlE/edit?usp=sharing',
+     display_url: 'https://docs.google.com/document/d/1hfXauCDTrVHWp9GaUXs_fuf3kon1tiJeE0XjaHQaPlE/edit?usp=sharing' } }
+{ type: 'LINK',
+  text: 'https://abc.xyz/',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://abc.xyz/' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?t=55&v=OClAfGo_9wQ',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?t=55&v=OClAfGo_9wQ',
+     display_url: 'https://www.youtube.com/watch?t=55&v=OClAfGo_9wQ' } }
+{ type: 'LINK',
+  text: 'jake.reed@me.com',
+  link_data: 
+   { link_target: 'mailto:jake.reed@me.com',
+     display_url: 'jake.reed@me.com' } }
+{ type: 'LINK',
+  text: 'jeff.keen@thirteen23.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jeff.keen@thirteen23.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=f8trkgFX6wI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=f8trkgFX6wI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=CE8XKeN0zk4',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=CE8XKeN0zk4',
+     display_url: 'https://www.youtube.com/watch?v=CE8XKeN0zk4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=-DL0W9AUCuY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=-DL0W9AUCuY',
+     display_url: 'https://www.youtube.com/watch?v=-DL0W9AUCuY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=_isNCq6_-9s',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=_isNCq6_-9s',
+     display_url: 'https://www.youtube.com/watch?v=_isNCq6_-9s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=g0MX4qDsaoY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=g0MX4qDsaoY',
+     display_url: 'https://www.youtube.com/watch?v=g0MX4qDsaoY' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=poster+rack&espv=2&biw=1301&bih=753&tbm=isch&imgil=UDfrhBY27vxCeM%253A%253Bf3ghb_5FcYnQ2M%253Bhttp%25253A%25252F%25252Fcreativestoresolutions.com%25252FWall-Poster-Display.html&source=iu&pf=m&fir=UDfrhBY27vxCeM%253A%252Cf3ghb_5FcYnQ2M%252C_&usg=__NM61lOSHV3gDpcoOUF7uVvwvkaM%3D&ved=0CFoQyjc&ei=HEo8VKS7MOfb8AGEhoDgCQ#facrc=_&imgdii=_&imgrc=UDfrhBY27vxCeM%253A%3Bf3ghb_5FcYnQ2M%3Bhttp%253A%252F%252Fcreativestoresolutions.com%252Fimages%252FD%252FWall_Poster_Display.jpg%3Bhttp%253A%252F%252Fcreativestoresolutions.com%252FWall-Poster-Display.html%3B493%3B505',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=poster+rack&espv=2&biw=1301&bih=753&tbm=isch&imgil=UDfrhBY27vxCeM%253A%253Bf3ghb_5FcYnQ2M%253Bhttp%25253A%25252F%25252Fcreativestoresolutions.com%25252FWall-Poster-Display.html&source=iu&pf=m&fir=UDfrhBY27vxCeM%253A%252Cf3ghb_5FcYnQ2M%252C_&usg=__NM61lOSHV3gDpcoOUF7uVvwvkaM%3D&ved=0CFoQyjc&ei=HEo8VKS7MOfb8AGEhoDgCQ#facrc=_&imgdii=_&imgrc=UDfrhBY27vxCeM%253A%3Bf3ghb_5FcYnQ2M%3Bhttp%253A%252F%252Fcreativestoresolutions.com%252Fimages%252FD%252FWall_Poster_Display.jpg%3Bhttp%253A%252F%252Fcreativestoresolutions.com%252FWall-Poster-Display.html%3B493%3B505',
+     display_url: 'https://www.google.com/search?q=poster+rack&espv=2&biw=1301&bih=753&tbm=isch&imgil=UDfrhBY27vxCeM%253A%253Bf3ghb_5FcYnQ2M%253Bhttp%25253A%25252F%25252Fcreativestoresolutions.com%25252FWall-Poster-Display.html&source=iu&pf=m&fir=UDfrhBY27vxCeM%253A%252Cf3ghb_5FcYnQ2M%252C_&usg=__NM61lOSHV3gDpcoOUF7uVvwvkaM%3D&ved=0CFoQyjc&ei=HEo8VKS7MOfb8AGEhoDgCQ#facrc=_&imgdii=_&imgrc=UDfrhBY27vxCeM%253A%3Bf3ghb_5FcYnQ2M%3Bhttp%253A%252F%252Fcreativestoresolutions.com%252Fimages%252FD%252FWall_Poster_Display.jpg%3Bhttp%253A%252F%252Fcreativestoresolutions.com%252FWall-Poster-Display.html%3B493%3B505' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=block%20print%20tshirts',
+  link_data: 
+   { link_target: 'https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=block%20print%20tshirts',
+     display_url: 'https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=block%20print%20tshirts' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=rwDbOmPQNx0',
+  link_data: { link_target: 'https://www.youtube.com/watch?v=rwDbOmPQNx0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=QxnY2SWZTvk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=QxnY2SWZTvk' } }
+{ type: 'LINK',
+  text: 'jkeen.14a95@m.evernote.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jkeen.14a95@m.evernote.com' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=s1JsBhRCRH0',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=s1JsBhRCRH0',
+     display_url: 'https://www.youtube.com/watch?v=s1JsBhRCRH0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=wJZGxL-8DTk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=wJZGxL-8DTk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=EKnwouBWKg8',
+  link_data: { link_target: 'https://www.youtube.com/watch?v=EKnwouBWKg8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=htPofdqAlCI',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=htPofdqAlCI',
+     display_url: 'https://www.youtube.com/watch?v=htPofdqAlCI' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/nVBK3JazI3g',
+  link_data: 
+   { link_target: 'http://youtu.be/nVBK3JazI3g',
+     display_url: 'http://youtu.be/nVBK3JazI3g' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=lrJz9Dh5MsM',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=lrJz9Dh5MsM',
+     display_url: 'https://www.youtube.com/watch?v=lrJz9Dh5MsM' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=fU7hZ3smj0g&t=4m22s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?v=fU7hZ3smj0g&t=4m22s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ctLi5G3F9sM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ctLi5G3F9sM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=_sxY8pELhqM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=_sxY8pELhqM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=IsV-lgnAjps',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=IsV-lgnAjps',
+     display_url: 'https://www.youtube.com/watch?v=IsV-lgnAjps' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=fU7hZ3smj0g',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=fU7hZ3smj0g' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?t=22&v=t3r51QI4Ctw',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?t=22&v=t3r51QI4Ctw',
+     display_url: 'https://www.youtube.com/watch?t=22&v=t3r51QI4Ctw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=atOFHAawIAA',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=atOFHAawIAA',
+     display_url: 'https://www.youtube.com/watch?v=atOFHAawIAA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=rEuvVGpH8NY',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=rEuvVGpH8NY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Be2KgaszAx0',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Be2KgaszAx0',
+     display_url: 'https://www.youtube.com/watch?v=Be2KgaszAx0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=wJTjjAXDZSY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=wJTjjAXDZSY',
+     display_url: 'https://www.youtube.com/watch?v=wJTjjAXDZSY' } }
+{ type: 'LINK',
+  text: 'https://maps.google.com/maps?q=29.753977,-95.452936',
+  link_data: { link_target: 'https://maps.google.com/maps?q=29.753977,-95.452936' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=4AZtWGB1Khc',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=4AZtWGB1Khc',
+     display_url: 'https://www.youtube.com/watch?v=4AZtWGB1Khc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Yc6PwbQqrMI',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Yc6PwbQqrMI',
+     display_url: 'https://www.youtube.com/watch?v=Yc6PwbQqrMI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=w81g199L8YA',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=w81g199L8YA',
+     display_url: 'https://www.youtube.com/watch?v=w81g199L8YA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=tLLx4zKyKwk&feature=youtu.be',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=tLLx4zKyKwk&feature=youtu.be',
+     display_url: 'https://www.youtube.com/watch?v=tLLx4zKyKwk&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=QxnY2SWZTvk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=QxnY2SWZTvk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=oeb5LdAyLC8',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=oeb5LdAyLC8',
+     display_url: 'https://www.youtube.com/watch?v=oeb5LdAyLC8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=eiWIOKKuyGE',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=eiWIOKKuyGE' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Rs4P1kKK-5k',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Rs4P1kKK-5k',
+     display_url: 'https://www.youtube.com/watch?v=Rs4P1kKK-5k' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=2bfNgekJG4M&feature=youtu.be&t=6s',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=2bfNgekJG4M&feature=youtu.be&t=6s',
+     display_url: 'https://www.youtube.com/watch?v=2bfNgekJG4M&feature=youtu.be&t=6s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=FJUfaCxaLmQ',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=FJUfaCxaLmQ',
+     display_url: 'https://www.youtube.com/watch?v=FJUfaCxaLmQ' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=eIQcI3DkYKk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=eIQcI3DkYKk',
+     display_url: 'https://www.youtube.com/watch?v=eIQcI3DkYKk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=nECoe4eCp_o',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=nECoe4eCp_o',
+     display_url: 'https://www.youtube.com/watch?v=nECoe4eCp_o' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Kn0689gvLFQ&feature=youtu.be&t=43s',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Kn0689gvLFQ&feature=youtu.be&t=43s',
+     display_url: 'https://www.youtube.com/watch?v=Kn0689gvLFQ&feature=youtu.be&t=43s' } }
+{ type: 'LINK',
+  text: 'https://youtu.be/RGvt-xN0rK0?t=437',
+  link_data: 
+   { link_target: 'https://youtu.be/RGvt-xN0rK0?t=437',
+     display_url: 'https://youtu.be/RGvt-xN0rK0?t=437' } }
+{ type: 'LINK',
+  text: 'https://youtu.be/E3YGtQ40Qvs',
+  link_data: 
+   { link_target: 'https://youtu.be/E3YGtQ40Qvs',
+     display_url: 'https://youtu.be/E3YGtQ40Qvs' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?t=53&v=skjthdY4qPw',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?t=53&v=skjthdY4qPw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=5ITftz_kbNs',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=5ITftz_kbNs' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=kxopViU98Xo',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=kxopViU98Xo',
+     display_url: 'https://www.youtube.com/watch?v=kxopViU98Xo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KnUEecEs3Xk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=KnUEecEs3Xk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=rZ7otTIrIs4&feature=youtu.be',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=rZ7otTIrIs4&feature=youtu.be',
+     display_url: 'https://www.youtube.com/watch?v=rZ7otTIrIs4&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=j7kgB7BAjag',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=j7kgB7BAjag',
+     display_url: 'https://www.youtube.com/watch?v=j7kgB7BAjag' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=vgjB9YQ_KDo',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=vgjB9YQ_KDo',
+     display_url: 'https://www.youtube.com/watch?v=vgjB9YQ_KDo' } }
+{ type: 'LINK',
+  text: 'jeffxl@gmail.com',
+  link_data: 
+   { link_target: 'mailto:jeffxl@gmail.com',
+     display_url: 'jeffxl@gmail.com' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/calendar/render?cid=cW9saXVuaTlmcWZybHJhZXU4ZGI5dXU5ZzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&invEmailKey=sjlawrence@cgintl.com:21a01acd3fcffc1eca33b569ec447c134f7fd843',
+  link_data: 
+   { link_target: 'https://www.google.com/calendar/render?cid=cW9saXVuaTlmcWZybHJhZXU4ZGI5dXU5ZzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&invEmailKey=sjlawrence@cgintl.com:21a01acd3fcffc1eca33b569ec447c134f7fd843',
+     display_url: 'https://www.google.com/calendar/render?cid=cW9saXVuaTlmcWZybHJhZXU4ZGI5dXU5ZzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&invEmailKey=sjlawrence@cgintl.com:21a01acd3fcffc1eca33b569ec447c134f7fd843' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=YE8PTMSFMUg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=YE8PTMSFMUg',
+     display_url: 'https://www.youtube.com/watch?v=YE8PTMSFMUg' } }
+{ type: 'LINK',
+  text: 'bbill@aol.com',
+  link_data: 
+   { link_target: 'mailto:bbill@aol.com',
+     display_url: 'bbill@aol.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=sONc6KR3RS4',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=sONc6KR3RS4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/embed/5HbYScltf1c',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/embed/5HbYScltf1c' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=itvvFfeLh84',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=itvvFfeLh84',
+     display_url: 'https://www.youtube.com/watch?v=itvvFfeLh84' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=XsoEMElxq6M&index=105&list=FLDRrF4mK4XsMBJfvj2j2emg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=XsoEMElxq6M&index=105&list=FLDRrF4mK4XsMBJfvj2j2emg',
+     display_url: 'https://www.youtube.com/watch?v=XsoEMElxq6M&index=105&list=FLDRrF4mK4XsMBJfvj2j2emg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=M5rpbCQlo6Q',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=M5rpbCQlo6Q',
+     display_url: 'https://www.youtube.com/watch?v=M5rpbCQlo6Q' } }
+{ type: 'LINK',
+  text: 'https://m.youtube.com/watch?v=KHZ8ek-6ccc',
+  link_data: { link_target: 'https://m.youtube.com/watch?v=KHZ8ek-6ccc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=fRqCVcSWbDc',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=fRqCVcSWbDc',
+     display_url: 'https://www.youtube.com/watch?v=fRqCVcSWbDc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KkxPIy39s8E',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=KkxPIy39s8E',
+     display_url: 'https://www.youtube.com/watch?v=KkxPIy39s8E' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/WoMRgVR00po',
+  link_data: { link_target: 'http://youtu.be/WoMRgVR00po' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+     display_url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+     display_url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' } }
+{ type: 'LINK',
+  text: 'store@mnsu.edu',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:store@mnsu.edu' } }
+{ type: 'LINK',
+  text: 'tedmund.johnson@mnsu.edu',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:tedmund.johnson@mnsu.edu' } }
+{ type: 'LINK',
+  text: 'SPIDERPOP@BRESNANLINK.NET',
+  link_data: 
+   { link_target: 'mailto:SPIDERPOP@BRESNANLINK.NET',
+     display_url: 'SPIDERPOP@BRESNANLINK.NET' } }
+{ type: 'LINK',
+  text: 'https://fiber.google.com/cities/austin/fiberhoods/?addr_id=AD4856866816#zone=Emerald+Forest&fiberhood=',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://fiber.google.com/cities/austin/fiberhoods/?addr_id=AD4856866816#zone=Emerald+Forest&fiberhood=' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=7d_jQycdQGo',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=7d_jQycdQGo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=NJvEL85Mq0s',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=NJvEL85Mq0s',
+     display_url: 'https://www.youtube.com/watch?v=NJvEL85Mq0s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=qsEZ2lpM0Yw',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=qsEZ2lpM0Yw',
+     display_url: 'https://www.youtube.com/watch?v=qsEZ2lpM0Yw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=VbCamJxaGHc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=VbCamJxaGHc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=qpObCUeOe5Y',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=qpObCUeOe5Y' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=2gMjJNGg9Z8&index=1&list=FLDRrF4mK4XsMBJfvj2j2emg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=2gMjJNGg9Z8&index=1&list=FLDRrF4mK4XsMBJfvj2j2emg',
+     display_url: 'https://www.youtube.com/watch?v=2gMjJNGg9Z8&index=1&list=FLDRrF4mK4XsMBJfvj2j2emg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=fwS0OwGnE2o',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=fwS0OwGnE2o',
+     display_url: 'https://www.youtube.com/watch?v=fwS0OwGnE2o' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=t6WKWsUBkaw&index=6&list=PLVL8S3lUHf0TT2SGhaJy5FREpv2rUx2i3',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=t6WKWsUBkaw&index=6&list=PLVL8S3lUHf0TT2SGhaJy5FREpv2rUx2i3' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=dbbque0Y4FU',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=dbbque0Y4FU' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=qsEZ2lpM0Yw&list=FLDRrF4mK4XsMBJfvj2j2emg&index=5',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=qsEZ2lpM0Yw&list=FLDRrF4mK4XsMBJfvj2j2emg&index=5',
+     display_url: 'https://www.youtube.com/watch?v=qsEZ2lpM0Yw&list=FLDRrF4mK4XsMBJfvj2j2emg&index=5' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=CsGYh8AacgY',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=CsGYh8AacgY' } }
+{ type: 'LINK',
+  text: 'https://m.youtube.com/watch?v=qtsNbxgPngA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://m.youtube.com/watch?v=qtsNbxgPngA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=fwJKz8x94Qo',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=fwJKz8x94Qo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=f2rgzsO-AMM&feature=youtu.be',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=f2rgzsO-AMM&feature=youtu.be',
+     display_url: 'https://www.youtube.com/watch?v=f2rgzsO-AMM&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=lH1dH9mBM4Y&app=desktop',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=lH1dH9mBM4Y&app=desktop',
+     display_url: 'https://www.youtube.com/watch?v=lH1dH9mBM4Y&app=desktop' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=7mYpLLUX4_U',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=7mYpLLUX4_U',
+     display_url: 'https://www.youtube.com/watch?v=7mYpLLUX4_U' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=mVt_1lGTUcg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=mVt_1lGTUcg',
+     display_url: 'https://www.youtube.com/watch?v=mVt_1lGTUcg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=lcUeothSPyc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=lcUeothSPyc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=JYuOZnAqQCY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=JYuOZnAqQCY',
+     display_url: 'https://www.youtube.com/watch?v=JYuOZnAqQCY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=kOCTkH2DdpA&feature=youtu.be',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=kOCTkH2DdpA&feature=youtu.be',
+     display_url: 'https://www.youtube.com/watch?v=kOCTkH2DdpA&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=vOYq2dcu9uI&list=UUR4s1DE9J4DHzZYXMltSMAg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=vOYq2dcu9uI&list=UUR4s1DE9J4DHzZYXMltSMAg',
+     display_url: 'https://www.youtube.com/watch?v=vOYq2dcu9uI&list=UUR4s1DE9J4DHzZYXMltSMAg' } }
+{ type: 'LINK',
+  text: 'https://groups.google.com/forum/#!topic/rec.boats.racing/lDHz1xK8lpM',
+  link_data: 
+   { link_target: 'https://groups.google.com/forum/#!topic/rec.boats.racing/lDHz1xK8lpM',
+     display_url: 'https://groups.google.com/forum/#!topic/rec.boats.racing/lDHz1xK8lpM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=1TQ1I6Ey5hc',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=1TQ1I6Ey5hc',
+     display_url: 'https://www.youtube.com/watch?v=1TQ1I6Ey5hc' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/mJG0lqukJTQ',
+  link_data: { link_target: 'http://youtu.be/mJG0lqukJTQ' } }
+{ type: 'LINK',
+  text: 'https://plus.google.com/u/0/112911477052766864340/about',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://plus.google.com/u/0/112911477052766864340/about' } }
+{ type: 'LINK',
+  text: 'https://lh3.googleusercontent.com/-5dPZZnN_lpc/UkxTmQR4NXI/AAAAAAAAAG8/aYX478f0seY/s43-no/Sam2013.jpg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://lh3.googleusercontent.com/-5dPZZnN_lpc/UkxTmQR4NXI/AAAAAAAAAG8/aYX478f0seY/s43-no/Sam2013.jpg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=dJN7bFWNg8M&t=45m40s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=dJN7bFWNg8M&t=45m40s' } }
+{ type: 'LINK',
+  text: 'https://plus.google.com/u/0/photos/albums/psrhsv91eo9a7b7sc4f1nbe0kjouh9v9n?pid=6075282985422483474&oid=115747687452093271802',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://plus.google.com/u/0/photos/albums/psrhsv91eo9a7b7sc4f1nbe0kjouh9v9n?pid=6075282985422483474&oid=115747687452093271802' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=_a-2GU7lDDg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=_a-2GU7lDDg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ABymhwrzJNA&feature=youtu.be',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ABymhwrzJNA&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=sONc6KR3RS4',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=sONc6KR3RS4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=V8lj7fNXg80',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=V8lj7fNXg80',
+     display_url: 'https://www.youtube.com/watch?v=V8lj7fNXg80' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=nf9ypRpbZMA',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=nf9ypRpbZMA',
+     display_url: 'https://www.youtube.com/watch?v=nf9ypRpbZMA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KnAqTuzug4I',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=KnAqTuzug4I',
+     display_url: 'https://www.youtube.com/watch?v=KnAqTuzug4I' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=RzdRQCnDBlw',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=RzdRQCnDBlw' } }
+{ type: 'LINK',
+  text: 'yes@tempolabs.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:yes@tempolabs.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ONT7DTPy0Zc',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=ONT7DTPy0Zc',
+     display_url: 'https://www.youtube.com/watch?v=ONT7DTPy0Zc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=YuOBzWF0Aws',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=YuOBzWF0Aws' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=B759dzymyoc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=B759dzymyoc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Gng3sPiJdzA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=Gng3sPiJdzA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=1gNrXsyD7wE#t=199',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=1gNrXsyD7wE#t=199',
+     display_url: 'https://www.youtube.com/watch?v=1gNrXsyD7wE#t=199' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=yny0VDxgNwQ',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=yny0VDxgNwQ',
+     display_url: 'https://www.youtube.com/watch?v=yny0VDxgNwQ' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=jl204CfCGRg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=jl204CfCGRg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=y3za5JsE83U',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=y3za5JsE83U',
+     display_url: 'https://www.youtube.com/watch?v=y3za5JsE83U' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=fwS0OwGnE2o',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=fwS0OwGnE2o' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Fd9ohpDDCRU&t=1m19s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=Fd9ohpDDCRU&t=1m19s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=BCQJnOn0ru0',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=BCQJnOn0ru0',
+     display_url: 'https://www.youtube.com/watch?v=BCQJnOn0ru0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=fu2bgwcv43o',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=fu2bgwcv43o',
+     display_url: 'https://www.youtube.com/watch?v=fu2bgwcv43o' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Tj-GZJhfBmI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=Tj-GZJhfBmI' } }
+{ type: 'LINK',
+  text: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc/related',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc/related' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=6EsphzAFQpg',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=6EsphzAFQpg',
+     display_url: 'https://www.youtube.com/watch?v=6EsphzAFQpg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=9elQeVfrLOo',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=9elQeVfrLOo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=7jkTVzWitVo',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=7jkTVzWitVo',
+     display_url: 'https://www.youtube.com/watch?v=7jkTVzWitVo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=NGHPCaDfq_8',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=NGHPCaDfq_8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=CF2o5RDkq9A&feature=youtu.be&t=1s',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=CF2o5RDkq9A&feature=youtu.be&t=1s',
+     display_url: 'https://www.youtube.com/watch?v=CF2o5RDkq9A&feature=youtu.be&t=1s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=_li_d_YviZ4',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=_li_d_YviZ4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=FrHkKXFRbCI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=FrHkKXFRbCI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=3Qp02foMHFE&t=5m15s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=3Qp02foMHFE&t=5m15s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=EKnwouBWKg8',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=EKnwouBWKg8',
+     display_url: 'https://www.youtube.com/watch?v=EKnwouBWKg8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=EKnwouBWKg8',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=EKnwouBWKg8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=8Pa9x9fZBtY&feature=youtu.be',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=8Pa9x9fZBtY&feature=youtu.be',
+     display_url: 'https://www.youtube.com/watch?v=8Pa9x9fZBtY&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=G8cSe7RvqSM',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=G8cSe7RvqSM',
+     display_url: 'https://www.youtube.com/watch?v=G8cSe7RvqSM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=MO9coPY-cv4',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=MO9coPY-cv4',
+     display_url: 'https://www.youtube.com/watch?v=MO9coPY-cv4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=WIKqgE4BwAY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=WIKqgE4BwAY',
+     display_url: 'https://www.youtube.com/watch?v=WIKqgE4BwAY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=0uBOtQOO70Y',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=0uBOtQOO70Y',
+     display_url: 'https://www.youtube.com/watch?v=0uBOtQOO70Y' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=-qVYi1bQ0zk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=-qVYi1bQ0zk',
+     display_url: 'https://www.youtube.com/watch?v=-qVYi1bQ0zk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=JZ3gs1K3rVQ#t=30',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=JZ3gs1K3rVQ#t=30' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=4pDbyisUGKc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=4pDbyisUGKc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=PzQXeC5O01Y',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=PzQXeC5O01Y',
+     display_url: 'https://www.youtube.com/watch?v=PzQXeC5O01Y' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KYgEn_xQQKI&feature=kp',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=KYgEn_xQQKI&feature=kp' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=j7kgB7BAjag',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=j7kgB7BAjag',
+     display_url: 'https://www.youtube.com/watch?v=j7kgB7BAjag' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/maps/place/600+Summit+Ave/@44.2073907,-93.9936884,505m/data=!3m1!1e3!4m2!3m1!1s0x87f437387f21daef:0xa778da016387bd87',
+  link_data: 
+   { link_target: 'https://www.google.com/maps/place/600+Summit+Ave/@44.2073907,-93.9936884,505m/data=!3m1!1e3!4m2!3m1!1s0x87f437387f21daef:0xa778da016387bd87',
+     display_url: 'https://www.google.com/maps/place/600+Summit+Ave/@44.2073907,-93.9936884,505m/data=!3m1!1e3!4m2!3m1!1s0x87f437387f21daef:0xa778da016387bd87' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ninOz5ValUM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ninOz5ValUM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=fDQGZ4KQyxg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=fDQGZ4KQyxg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=eXgdSOxaCGI',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=eXgdSOxaCGI',
+     display_url: 'https://www.youtube.com/watch?v=eXgdSOxaCGI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=VQKe3nEL3XE&list=FLDRrF4mK4XsMBJfvj2j2emg&index=10',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=VQKe3nEL3XE&list=FLDRrF4mK4XsMBJfvj2j2emg&index=10',
+     display_url: 'https://www.youtube.com/watch?v=VQKe3nEL3XE&list=FLDRrF4mK4XsMBJfvj2j2emg&index=10' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=tXeQV1Nqbx4',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=tXeQV1Nqbx4',
+     display_url: 'https://www.youtube.com/watch?v=tXeQV1Nqbx4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=y3za5JsE83U',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=y3za5JsE83U',
+     display_url: 'https://www.youtube.com/watch?v=y3za5JsE83U' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=NAZTzaQ-sSc&feature=share',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=NAZTzaQ-sSc&feature=share',
+     display_url: 'https://www.youtube.com/watch?v=NAZTzaQ-sSc&feature=share' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=oROgYENpYaE',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=oROgYENpYaE',
+     display_url: 'https://www.youtube.com/watch?v=oROgYENpYaE' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=YA1J-raGinQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=YA1J-raGinQ',
+     display_url: 'http://www.youtube.com/watch?v=YA1J-raGinQ' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=xKbyWSwd7hk',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=xKbyWSwd7hk',
+     display_url: 'http://www.youtube.com/watch?v=xKbyWSwd7hk' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=JGyJOX5wFFg',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=JGyJOX5wFFg',
+     display_url: 'http://www.youtube.com/watch?v=JGyJOX5wFFg' } }
+{ type: 'LINK',
+  text: 'bbill@aol.com',
+  link_data: 
+   { link_target: 'mailto:bbill@aol.com',
+     display_url: 'bbill@aol.com' } }
+{ type: 'LINK',
+  text: 'bbill@aol.com',
+  link_data: 
+   { link_target: 'mailto:bbill@aol.com',
+     display_url: 'bbill@aol.com' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=NcHI0LAMx4s',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=NcHI0LAMx4s',
+     display_url: 'http://www.youtube.com/watch?v=NcHI0LAMx4s' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/maps/preview/@30.292608,-97.8246316,11z/data=!5m1!1e1',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.google.com/maps/preview/@30.292608,-97.8246316,11z/data=!5m1!1e1' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=chgI36otdps',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=chgI36otdps',
+     display_url: 'https://www.youtube.com/watch?v=chgI36otdps' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=rP7r12Rg490',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.youtube.com/watch?v=rP7r12Rg490' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=nubJjB95VdY',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=nubJjB95VdY',
+     display_url: 'http://www.youtube.com/watch?v=nubJjB95VdY' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KkqDEh-fXVI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=KkqDEh-fXVI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=GkX4MyDeIqI',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=GkX4MyDeIqI' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=XNUB86brr_A',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=XNUB86brr_A',
+     display_url: 'http://www.youtube.com/watch?v=XNUB86brr_A' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=co_DNpTMKXk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=co_DNpTMKXk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Jh9TdOfExqY#t=165',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Jh9TdOfExqY#t=165',
+     display_url: 'https://www.youtube.com/watch?v=Jh9TdOfExqY#t=165' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=rwPg2oarG_c',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=rwPg2oarG_c',
+     display_url: 'http://www.youtube.com/watch?v=rwPg2oarG_c' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Jm9bEizIGBE',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Jm9bEizIGBE',
+     display_url: 'https://www.youtube.com/watch?v=Jm9bEizIGBE' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=wJZGxL-8DTk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=wJZGxL-8DTk',
+     display_url: 'https://www.youtube.com/watch?v=wJZGxL-8DTk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=GBEq45uSApw',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=GBEq45uSApw',
+     display_url: 'https://www.youtube.com/watch?v=GBEq45uSApw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=I7zD-py5VL0',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=I7zD-py5VL0',
+     display_url: 'https://www.youtube.com/watch?v=I7zD-py5VL0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=fiwSlbdpk5w&feature=youtu.be',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=fiwSlbdpk5w&feature=youtu.be',
+     display_url: 'http://www.youtube.com/watch?v=fiwSlbdpk5w&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=uP74fOk6YE8&t=188',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=uP74fOk6YE8&t=188',
+     display_url: 'http://www.youtube.com/watch?v=uP74fOk6YE8&t=188' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=0ovLP9IreRk',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=0ovLP9IreRk',
+     display_url: 'http://www.youtube.com/watch?v=0ovLP9IreRk' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=dTqTF1UDelc&feature=share',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=dTqTF1UDelc&feature=share',
+     display_url: 'http://www.youtube.com/watch?v=dTqTF1UDelc&feature=share' } }
+{ type: 'LINK',
+  text: 'mistaketomake@j.keen.me',
+  link_data: 
+   { link_target: 'mailto:mistaketomake@j.keen.me',
+     display_url: 'mistaketomake@j.keen.me' } }
+{ type: 'LINK',
+  text: 'mistaketomake@j.keen.me',
+  link_data: 
+   { link_target: 'mailto:mistaketomake@j.keen.me',
+     display_url: 'mistaketomake@j.keen.me' } }
+{ type: 'LINK',
+  text: 'bbill@aol.com',
+  link_data: 
+   { link_target: 'mailto:bbill@aol.com',
+     display_url: 'bbill@aol.com' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=rT1nGjGM2p8&feature=youtu.be',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=rT1nGjGM2p8&feature=youtu.be',
+     display_url: 'http://www.youtube.com/watch?v=rT1nGjGM2p8&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Rd_BRT6_TPk#t=322',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Rd_BRT6_TPk#t=322',
+     display_url: 'https://www.youtube.com/watch?v=Rd_BRT6_TPk#t=322' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=FXgokniKNE4',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=FXgokniKNE4',
+     display_url: 'http://www.youtube.com/watch?v=FXgokniKNE4' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=WGRrOEbY3pI',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=WGRrOEbY3pI',
+     display_url: 'http://www.youtube.com/watch?v=WGRrOEbY3pI' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=TnldlzMfnio',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=TnldlzMfnio',
+     display_url: 'https://www.youtube.com/watch?v=TnldlzMfnio' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KFiRQEyo6vI',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=KFiRQEyo6vI',
+     display_url: 'https://www.youtube.com/watch?v=KFiRQEyo6vI' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=7dgcR1Ju6hU',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=7dgcR1Ju6hU',
+     display_url: 'http://www.youtube.com/watch?v=7dgcR1Ju6hU' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Rp1bNDqULJc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Rp1bNDqULJc',
+     display_url: 'http://www.youtube.com/watch?v=Rp1bNDqULJc' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=vu7bBi1HpE4',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=vu7bBi1HpE4',
+     display_url: 'http://www.youtube.com/watch?v=vu7bBi1HpE4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=eyrK0xUR4jI',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=eyrK0xUR4jI',
+     display_url: 'https://www.youtube.com/watch?v=eyrK0xUR4jI' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Q_rmcyGeRj4&t=53',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Q_rmcyGeRj4&t=53',
+     display_url: 'http://www.youtube.com/watch?v=Q_rmcyGeRj4&t=53' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=4AZtWGB1Khc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=4AZtWGB1Khc',
+     display_url: 'http://www.youtube.com/watch?v=4AZtWGB1Khc' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=eV-2qAYzWvE&feature=player_detailpage#t=110',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=eV-2qAYzWvE&feature=player_detailpage#t=110',
+     display_url: 'http://www.youtube.com/watch?v=eV-2qAYzWvE&feature=player_detailpage#t=110' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=gggDqQ5yh6o',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=gggDqQ5yh6o',
+     display_url: 'https://www.youtube.com/watch?v=gggDqQ5yh6o' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Y6fGbG7-RqA&list=RD04HFIQIpC5_wY',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Y6fGbG7-RqA&list=RD04HFIQIpC5_wY',
+     display_url: 'https://www.youtube.com/watch?v=Y6fGbG7-RqA&list=RD04HFIQIpC5_wY' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=j7kgB7BAjag',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=j7kgB7BAjag',
+     display_url: 'http://www.youtube.com/watch?v=j7kgB7BAjag' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=o3S2ZDN5Ugs',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=o3S2ZDN5Ugs',
+     display_url: 'http://www.youtube.com/watch?v=o3S2ZDN5Ugs' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Xnjq_2ZttNs',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Xnjq_2ZttNs',
+     display_url: 'https://www.youtube.com/watch?v=Xnjq_2ZttNs' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=WDQQfBrSUs0',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=WDQQfBrSUs0',
+     display_url: 'https://www.youtube.com/watch?v=WDQQfBrSUs0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Ej8EaLF382c',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=Ej8EaLF382c',
+     display_url: 'https://www.youtube.com/watch?v=Ej8EaLF382c' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/hGnqUq6TInk',
+  link_data: 
+   { link_target: 'http://youtu.be/hGnqUq6TInk',
+     display_url: 'http://youtu.be/hGnqUq6TInk' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Dor96YnM_qo',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Dor96YnM_qo',
+     display_url: 'http://www.youtube.com/watch?v=Dor96YnM_qo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=7SD2WTrVPxE',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=7SD2WTrVPxE',
+     display_url: 'https://www.youtube.com/watch?v=7SD2WTrVPxE' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=8u-dxn8IgQo',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=8u-dxn8IgQo',
+     display_url: 'https://www.youtube.com/watch?v=8u-dxn8IgQo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=nKubwgJK8q8',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=nKubwgJK8q8',
+     display_url: 'https://www.youtube.com/watch?v=nKubwgJK8q8' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=bike+chain+necklace&oq=bike+chain+necklace&aqs=chrome.0.69i57j69i62.2659j0&sourceid=chrome&ie=UTF-8',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=bike+chain+necklace&oq=bike+chain+necklace&aqs=chrome.0.69i57j69i62.2659j0&sourceid=chrome&ie=UTF-8',
+     display_url: 'https://www.google.com/search?q=bike+chain+necklace&oq=bike+chain+necklace&aqs=chrome.0.69i57j69i62.2659j0&sourceid=chrome&ie=UTF-8' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=i+sux+at+the+pr0gr%40mmingz&oq=i+sux+at+the+pr0gr%40mmingz&aqs=chrome.0.69i57j69i58j69i64l3.587j0&sourceid=chrome&ie=UTF-8',
+  link_data: 
+   { link_target: 'https://www.google.com/search?q=i+sux+at+the+pr0gr%40mmingz&oq=i+sux+at+the+pr0gr%40mmingz&aqs=chrome.0.69i57j69i58j69i64l3.587j0&sourceid=chrome&ie=UTF-8',
+     display_url: 'https://www.google.com/search?q=i+sux+at+the+pr0gr%40mmingz&oq=i+sux+at+the+pr0gr%40mmingz&aqs=chrome.0.69i57j69i58j69i64l3.587j0&sourceid=chrome&ie=UTF-8' } }
+{ type: 'LINK',
+  text: 'lindabeewilson@gmail.com',
+  link_data: 
+   { link_target: 'mailto:lindabeewilson@gmail.com',
+     display_url: 'lindabeewilson@gmail.com' } }
+{ type: 'LINK',
+  text: 'lindabeewilson@gmail.com',
+  link_data: 
+   { link_target: 'mailto:lindabeewilson@gmail.com',
+     display_url: 'lindabeewilson@gmail.com' } }
+{ type: 'LINK',
+  text: 'http://lindabeewilson@gmail.com',
+  link_data: 
+   { link_target: 'http://lindabeewilson@gmail.com',
+     display_url: 'http://lindabeewilson@gmail.com' } }
+{ type: 'LINK',
+  text: 'lindabeewilson@gmail.com',
+  link_data: 
+   { link_target: 'mailto:lindabeewilson@gmail.com',
+     display_url: 'lindabeewilson@gmail.com' } }
+{ type: 'LINK',
+  text: 'http://lindabeewilson@gmail.com',
+  link_data: 
+   { link_target: 'http://lindabeewilson@gmail.com',
+     display_url: 'http://lindabeewilson@gmail.com' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=AzQTkiYlyi4&feature=youtu.be',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=AzQTkiYlyi4&feature=youtu.be',
+     display_url: 'http://www.youtube.com/watch?v=AzQTkiYlyi4&feature=youtu.be' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=_dfhq7j4hyQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=_dfhq7j4hyQ',
+     display_url: 'http://www.youtube.com/watch?v=_dfhq7j4hyQ' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=a5lm9kZEml8',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=a5lm9kZEml8',
+     display_url: 'http://www.youtube.com/watch?v=a5lm9kZEml8' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=c6EWXvX2td0',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=c6EWXvX2td0',
+     display_url: 'http://www.youtube.com/watch?v=c6EWXvX2td0' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw',
+     display_url: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw',
+     display_url: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw',
+     display_url: 'http://www.youtube.com/watch?v=7Wn9HoVjXpw' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=jnWz24ZUDtA',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=jnWz24ZUDtA',
+     display_url: 'http://www.youtube.com/watch?v=jnWz24ZUDtA' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=rc65FoQa_Bs',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=rc65FoQa_Bs',
+     display_url: 'http://www.youtube.com/watch?v=rc65FoQa_Bs' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?feature=player_detailpage&v=HHyi2IiT-Ls&list=FLDRrF4mK4XsMBJfvj2j2emg&t=6',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?feature=player_detailpage&v=HHyi2IiT-Ls&list=FLDRrF4mK4XsMBJfvj2j2emg&t=6',
+     display_url: 'http://www.youtube.com/watch?feature=player_detailpage&v=HHyi2IiT-Ls&list=FLDRrF4mK4XsMBJfvj2j2emg&t=6' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/user/mistaketomake?feature=watch',
+  link_data: 
+   { link_target: 'http://www.youtube.com/user/mistaketomake?feature=watch',
+     display_url: 'http://www.youtube.com/user/mistaketomake?feature=watch' } }
+{ type: 'LINK',
+  text: 'mistaketomake@j.keen.me',
+  link_data: 
+   { link_target: 'mailto:mistaketomake@j.keen.me',
+     display_url: 'mistaketomake@j.keen.me' } }
+{ type: 'LINK',
+  text: 'mistaketomake@j.keen.me',
+  link_data: 
+   { link_target: 'mailto:mistaketomake@j.keen.me',
+     display_url: 'mistaketomake@j.keen.me' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=XTQrAIn6xFc&list=PL92F847FEB08D0243&t=175',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=XTQrAIn6xFc&list=PL92F847FEB08D0243&t=175',
+     display_url: 'https://www.youtube.com/watch?v=XTQrAIn6xFc&list=PL92F847FEB08D0243&t=175' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=UoK8DaJRDaM',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=UoK8DaJRDaM',
+     display_url: 'https://www.youtube.com/watch?v=UoK8DaJRDaM' } }
+{ type: 'LINK',
+  text: 'http://youtu.be/1Ag2O3Nsdkk',
+  link_data: 
+   { link_target: 'http://youtu.be/1Ag2O3Nsdkk',
+     display_url: 'http://youtu.be/1Ag2O3Nsdkk' } }
+{ type: 'LINK',
+  text: 'http://chrome.com/campaigns/rollit',
+  link_data: 
+   { link_target: 'http://chrome.com/campaigns/rollit',
+     display_url: 'http://chrome.com/campaigns/rollit' } }
+{ type: 'LINK',
+  text: 'http://www.chromeexperiments.com/detail/racer/?f=',
+  link_data: 
+   { link_target: 'http://www.chromeexperiments.com/detail/racer/?f=',
+     display_url: 'http://www.chromeexperiments.com/detail/racer/?f=' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=gnV4NMYcpCc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=gnV4NMYcpCc',
+     display_url: 'http://www.youtube.com/watch?v=gnV4NMYcpCc' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=SvBAkS2rg5o',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=SvBAkS2rg5o',
+     display_url: 'http://www.youtube.com/watch?v=SvBAkS2rg5o' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Zg4qU1qOjWM',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Zg4qU1qOjWM',
+     display_url: 'http://www.youtube.com/watch?v=Zg4qU1qOjWM' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=RYbe-35_BaA&feature=player_embedded',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=RYbe-35_BaA&feature=player_embedded',
+     display_url: 'http://www.youtube.com/watch?v=RYbe-35_BaA&feature=player_embedded' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=hOs6jlUd01Y',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=hOs6jlUd01Y',
+     display_url: 'http://www.youtube.com/watch?v=hOs6jlUd01Y' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=v5Ho4K5dFdg',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=v5Ho4K5dFdg',
+     display_url: 'http://www.youtube.com/watch?v=v5Ho4K5dFdg' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=FxKtZmQgxrI&feature=player_embedded',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=FxKtZmQgxrI&feature=player_embedded',
+     display_url: 'http://www.youtube.com/watch?v=FxKtZmQgxrI&feature=player_embedded' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ieX_fARsFyc',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=ieX_fARsFyc',
+     display_url: 'http://www.youtube.com/watch?v=ieX_fARsFyc' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=WJK1mXTLjwU',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=WJK1mXTLjwU',
+     display_url: 'http://www.youtube.com/watch?v=WJK1mXTLjwU' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=43c4LMsiMxk',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=43c4LMsiMxk',
+     display_url: 'http://www.youtube.com/watch?v=43c4LMsiMxk' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=tuZjFfY38FQ',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=tuZjFfY38FQ',
+     display_url: 'http://www.youtube.com/watch?v=tuZjFfY38FQ' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=46jG8oB9EKY',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=46jG8oB9EKY',
+     display_url: 'http://www.youtube.com/watch?v=46jG8oB9EKY' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ExuWUBBq5i0&feature=c4-overview&playnext=1&list=TL-1AZ4shc_Ws',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=ExuWUBBq5i0&feature=c4-overview&playnext=1&list=TL-1AZ4shc_Ws',
+     display_url: 'http://www.youtube.com/watch?v=ExuWUBBq5i0&feature=c4-overview&playnext=1&list=TL-1AZ4shc_Ws' } }
+{ type: 'LINK',
+  text: 'bbill@aol.com',
+  link_data: 
+   { link_target: 'mailto:bbill@aol.com',
+     display_url: 'bbill@aol.com' } }
+{ type: 'LINK',
+  text: 'bbill@aol.com',
+  link_data: 
+   { link_target: 'mailto:bbill@aol.com',
+     display_url: 'bbill@aol.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=1F4W0R1Zr_8',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=1F4W0R1Zr_8' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?q=less+vs+sass',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.google.com/search?q=less+vs+sass' } }
+{ type: 'LINK',
+  text: 'https://docs.google.com/document/d/1v3UnjawGdMA60P8OnU5H5-pM2fcu-wA_p19K8y8OAAc/edit',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://docs.google.com/document/d/1v3UnjawGdMA60P8OnU5H5-pM2fcu-wA_p19K8y8OAAc/edit' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=jVfbnZg7ZmM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=jVfbnZg7ZmM' } }
+{ type: 'LINK',
+  text: 'https://youtu.be/vN4U5FqrOdQ?t=16m42s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://youtu.be/vN4U5FqrOdQ?t=16m42s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=ROGzDFwfMlg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=ROGzDFwfMlg' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/maps?q=northwest+park&ion=1&espv=2&bav=on.2,or.r_cp.&bvm=bv.98717601,d.aWw&biw=1440&bih=748&dpr=2&um=1&ie=UTF-8&sa=X&ved=0CAYQ_AUoAWoVChMI47T7raf8xgIVRQ-SCh2SngiG',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.google.com/maps?q=northwest+park&ion=1&espv=2&bav=on.2,or.r_cp.&bvm=bv.98717601,d.aWw&biw=1440&bih=748&dpr=2&um=1&ie=UTF-8&sa=X&ved=0CAYQ_AUoAWoVChMI47T7raf8xgIVRQ-SCh2SngiG' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=x-x4J7LGfMI&t=3m25s',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=x-x4J7LGfMI&t=3m25s' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=_jddALM8aQQ',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=_jddALM8aQQ' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=0xojO-4VFPw',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=0xojO-4VFPw' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=dbbque0Y4FU',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=dbbque0Y4FU' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=BNUDUTAxtAc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=BNUDUTAxtAc' } }
+{ type: 'LINK',
+  text: 'http://www.google.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.google.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=zriS77PCaTk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=zriS77PCaTk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=X-EfxjJ-B94',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=X-EfxjJ-B94' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=y-ZNX1jqbOk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=y-ZNX1jqbOk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=KnUEecEs3Xk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=KnUEecEs3Xk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=MHpmHhi1Rxk',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=MHpmHhi1Rxk' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=cd2rWeswwGw',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=cd2rWeswwGw' } }
+{ type: 'LINK',
+  text: 'jeff@tempolabs.com',
+  link_data: { link_target: 'mailto:jeff@tempolabs.com' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  link_data: { link_target: 'mailto:jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=7howpHwQWb0',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=7howpHwQWb0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=5gVQyfYuExA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=5gVQyfYuExA' } }
+{ type: 'LINK',
+  text: 'jeff@keen.me',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=B2yoZQCLoSY#t=34',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=B2yoZQCLoSY#t=34' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=2LCggmsCXk4&t=16',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=2LCggmsCXk4&t=16' } }
+{ type: 'LINK',
+  text: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://chrome.google.com/webstore/detail/garlic/ooeiomplgfkcpmabpmnbikmdhlfikhgc' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=zDc-9yRc5Jg',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=zDc-9yRc5Jg' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=2LCggmsCXk4',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=2LCggmsCXk4' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=svSGKJFSl-8',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=svSGKJFSl-8' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=16Xg-Gr9VuA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=16Xg-Gr9VuA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=2gJlVIxrmcM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=2gJlVIxrmcM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=2gJlVIxrmcM',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=2gJlVIxrmcM' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=x_M9zWORBuA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=x_M9zWORBuA' } }
+{ type: 'LINK',
+  text: 'http://www.gv.com/lib/babe-ruth-and-feature-lists-why-prioritized-feature-lists-can-be-poisonous',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.gv.com/lib/babe-ruth-and-feature-lists-why-prioritized-feature-lists-can-be-poisonous' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=6sEE2TzXGEE',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=6sEE2TzXGEE' } }
+{ type: 'LINK',
+  text: 'mikeoneal@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:mikeoneal@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'https://plus.google.com/hangouts/_/assemblesystems.com/onboarding?authuser=1',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://plus.google.com/hangouts/_/assemblesystems.com/onboarding?authuser=1' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=QxnY2SWZTvk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=QxnY2SWZTvk',
+     display_url: 'https://www.youtube.com/watch?v=QxnY2SWZTvk' } }
+{ type: 'LINK',
+  text: 'jason@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jason@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=PPftVQwyPs0',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=PPftVQwyPs0',
+     display_url: 'https://www.youtube.com/watch?v=PPftVQwyPs0' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=yaZ5JfNQq54',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=yaZ5JfNQq54' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=Ej8EaLF382c',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=Ej8EaLF382c' } }
+{ type: 'LINK',
+  text: 'https://ci4.googleusercontent.com/proxy/x-TU1Vct5qqtIHHNA5hbKiR3ra6h3r9Kzx1_CxRta9yO82lbji0V2nDkgTPgPReNcOwPFxIYzKX8lBKFu6NYZ_Y-vrrMKiW1ZPfJi6YaTSC3NLA=s0-d-e1-ft#http://s3.amazonaws.com/nlga/uploads/item/image/18028/125.png',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://ci4.googleusercontent.com/proxy/x-TU1Vct5qqtIHHNA5hbKiR3ra6h3r9Kzx1_CxRta9yO82lbji0V2nDkgTPgPReNcOwPFxIYzKX8lBKFu6NYZ_Y-vrrMKiW1ZPfJi6YaTSC3NLA=s0-d-e1-ft#http://s3.amazonaws.com/nlga/uploads/item/image/18028/125.png' } }
+{ type: 'LINK',
+  text: 'test@assemblesystems.com',
+  link_data: 
+   { link_target: 'mailto:test@assemblesystems.com',
+     display_url: 'test@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'test@assemblesystems.com',
+  link_data: 
+   { link_target: 'mailto:test@assemblesystems.com',
+     display_url: 'test@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'admin@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:admin@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'http://www.google.com/imgres?imgurl=http://www.comfortkeyboard.com/images/number_pad.jpg&imgrefurl=http://www.comfortkeyboard.com/usb_number_pad.html&h=311&w=323&sz=15&tbnid=c_qx1_30twaJ3M:&tbnh=90&tbnw=93&zoom=1&usg=__h9QoEHhlAyreWTAyPh1bV-FOsjI=&docid=h_OPxCmXFG80zM&sa=X&ei=CCtUUqnRLcmE2wWMjYDgCw&ved=0CFoQ9QEwAQ',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'http://www.google.com/imgres?imgurl=http://www.comfortkeyboard.com/images/number_pad.jpg&imgrefurl=http://www.comfortkeyboard.com/usb_number_pad.html&h=311&w=323&sz=15&tbnid=c_qx1_30twaJ3M:&tbnh=90&tbnw=93&zoom=1&usg=__h9QoEHhlAyreWTAyPh1bV-FOsjI=&docid=h_OPxCmXFG80zM&sa=X&ei=CCtUUqnRLcmE2wWMjYDgCw&ved=0CFoQ9QEwAQ' } }
+{ type: 'LINK',
+  text: 'jason@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jason@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'quentin@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:quentin@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'mailto:jeff@keen.me',
+  link_data: { link_target: 'mailto:jeff@keen.me' } }
+{ type: 'LINK',
+  text: 'test@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:test@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com' } }
+{ type: 'LINK',
+  text: 'bryan@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:bryan@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'mailto:jeff@spiceworks.com',
+  link_data: { link_target: 'mailto:jeff@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'it_billing@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:it_billing@spiceworks.com',
+     display_url: 'it_billing@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'it_billing@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:it_billing@spiceworks.com',
+     display_url: 'it_billing@spiceworks.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=QxnY2SWZTvk',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=QxnY2SWZTvk',
+     display_url: 'https://www.youtube.com/watch?v=QxnY2SWZTvk' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei',
+  link_data: 
+   { link_target: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei',
+     display_url: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640',
+  link_data: 
+   { link_target: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640',
+     display_url: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640',
+  link_data: 
+   { link_target: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640',
+     display_url: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640' } }
+{ type: 'LINK',
+  text: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640',
+  link_data: 
+   { link_target: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640',
+     display_url: 'https://www.google.com/search?safe=active&q=lumberg+bridge+graffiti+austin&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&biw=1226&bih=805&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=D-ebUdyFGqftygGm6IHgCQ#um=1&safe=active&hl=en&tbm=isch&sa=1&q=lumbergh+graffiti+austin&oq=lumbergh+graffiti+austin&gs_l=img.3...4121.4121.2.4239.1.1.0.0.0.0.58.58.1.1.0.cpsugrccggmnoe..0.0...1.1.14.img.1qDHHZaAprw&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.eWU&fp=8084ff333ec0f8bb&biw=1226&bih=805&imgrc=2Dy9N1278czIfM%3A%3BCpskw2HFJmJo_M%3Bhttp%253A%252F%252Fsphotos-a.xx.fbcdn.net%252Fhphotos-prn1%252Fp480x480%252F550323_10151272497944195_1323681644_n.jpg%3Bhttp%253A%252F%252Fwww.facebook.com%252FJoDeePurkeypileMusic%253Ffilter%253D3%3B480%3B640' } }
+{ type: 'LINK',
+  text: 'angelacrowley24@gmail.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:angelacrowley24@gmail.com' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=j7kgB7BAjag',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=j7kgB7BAjag' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=5gVQyfYuExA',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://www.youtube.com/watch?v=5gVQyfYuExA' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=RQG7PaOE1Mo',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=RQG7PaOE1Mo',
+     display_url: 'https://www.youtube.com/watch?v=RQG7PaOE1Mo' } }
+{ type: 'LINK',
+  text: 'https://www.youtube.com/watch?v=yMgUMW8cs2c',
+  link_data: 
+   { link_target: 'https://www.youtube.com/watch?v=yMgUMW8cs2c',
+     display_url: 'https://www.youtube.com/watch?v=yMgUMW8cs2c' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=Au02p8huOuU',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=Au02p8huOuU',
+     display_url: 'http://www.youtube.com/watch?v=Au02p8huOuU' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=jofNR_WkoCE',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=jofNR_WkoCE',
+     display_url: 'http://www.youtube.com/watch?v=jofNR_WkoCE' } }
+{ type: 'LINK',
+  text: 'http://chrome.com/campaigns/rollit',
+  link_data: 
+   { link_target: 'http://chrome.com/campaigns/rollit',
+     display_url: 'http://chrome.com/campaigns/rollit' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=aDlNy0cIw4A',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=aDlNy0cIw4A',
+     display_url: 'http://www.youtube.com/watch?v=aDlNy0cIw4A' } }
+{ type: 'LINK',
+  text: 'http://www.youtube.com/watch?v=ddx3Z9GGJnE',
+  link_data: 
+   { link_target: 'http://www.youtube.com/watch?v=ddx3Z9GGJnE',
+     display_url: 'http://www.youtube.com/watch?v=ddx3Z9GGJnE' } }
+{ type: 'LINK',
+  text: 'https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en' } }
+{ type: 'LINK',
+  text: 'jeff@assemblesystems.com',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'mailto:jeff@assemblesystems.com' } }
+{ type: 'LINK',
+  text: 'https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en',
+  formatting: 
+   { bold: false,
+     italics: false,
+     strikethrough: false,
+     underline: false },
+  link_data: { link_target: 'https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en' } }
+{ type: 'LINK',
+  text: 'benb@spiceworks.com',
+  link_data: 
+   { link_target: 'mailto:benb@spiceworks.com',
+     display_url: 'benb@spiceworks.com' } }
