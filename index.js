@@ -1,23 +1,9 @@
-var FS      = require('fs');
-var RSVP    = require('rsvp');
-var Crypto  = require('crypto');
-var _       = require('underscore');
-var oboe    = require('oboe');
+var FS         = require('fs');
+var Promise    = require('bluebird');
+var Crypto     = require('crypto');
+var _          = require('underscore');
+var oboe       = require('oboe');
 
-var messageMap = {};
-var attachmentMap = {};
-var ordered = [];
-var allParticipantMap = {};
-var eventCount = 0;
-
-
-// Resets the maps so on subsequent calls we don't get overlaps
-function reset() {
-  messageMap = {};
-  attachmentMap = {};
-  allParticipantMap = {};
-  ordered = [];
-}
 
 // Generates a unique ID to prevent duplicates
 function uniqueId(row){
@@ -36,38 +22,11 @@ function buildBaseRow(row) {
   };
 }
 
-function mapMessage(id, row) {
-  messageMap[id] = row;
-}
-
-function buildPayload() {
-  var messages = [];
-  for (var i = 0; i < ordered.length; i++) {
-    var sha = ordered[i];
-    var row = messageMap[sha];
-
-    if (row) {
-      // we don't want no dupes
-      var message           = buildUniversalRow(row);
-      message.attachments   = formattedAttachmentsForMessage(row);
-      message.participants  = formattedParticipantMapForMessage(row);
-      message.source        = sourceInfo(row);
-      message               = setSenderAndReceiver(message);
-
-      delete messageMap[sha];
-      messages.push(JSON.stringify(message));
-    }
-  }
-
-  return messages;
-}
-
 function mapParticipants(row) {
-  return RSVP.Promise(function(resolve, reject) {
-    var allParticipantMap = {};
-
-    _.each(row, function(value, key) {
-      var conversation = row[key].conversation_state.conversation;
+  var allParticipantMap = {};
+  return new Promise(function(resolve, reject) {
+    var conversation = row.conversation;
+    if (conversation.participant_data) {
       _.each(conversation.participant_data, function(person) {
         var gaia_id = person.id.gaia_id;
         if(person.fallback_name && person.fallback_name !== null) {
@@ -76,9 +35,14 @@ function mapParticipants(row) {
           }
         }
       });
+    }
+    resolve({
+      row: row,
+      participants: allParticipantMap
     });
-
-    resolve(allParticipantMap);
+  }).catch(function(error) {
+    console.log('Errored while trying to create conversation participant map');
+    console.log(error);
   });
 }
 
@@ -104,100 +68,141 @@ function getParticipantsFromConversation(conversation, allParticipantMap) {
   return participantMap;
 }
 
-function buildMessages(row, allParticipantMap) {
-  _.each(row, function(conversationState) {
-    var id = conversationState.conversation_id.id;
-    var conversation = conversationState.conversation_state.conversation;
-    var participantMap = getParticipantsFromConversation(conversation, allParticipantMap);
-    var events = [];
+function getFileExtensionFromUrl(url) {
+  var extension = url.match(/\.([0-9a-z]+)(?:[\?#]|$)/i);
+  if (extension) {
+    return extension[1];
+  }
+  return "";
+}
 
-    // A conversation is made up of events
-    _.each(conversationState.conversation_state.event, function(value, key) {
+function buildMessages(conversationState, allParticipantMap) {
+  var id = conversationState.conversation_id.id;
+  var conversation = conversationState.conversation;
+  var participantMap = getParticipantsFromConversation(conversation, allParticipantMap);
+  var messages = [];
 
-      var convoEvent = conversationState.conversation_state.event[key];
-
-      eventCount = eventCount + 1;
-      console.log(JSON.stringify(convoEvent));
-
-      var sender = convoEvent.sender_id.gaia_id;
-      var message = "";
-      var timestamp = convoEvent.timestamp;
-      if (convoEvent.chat_message) {
-          // console.log(JSON.stringify(convoEvent.chat_message));
-          // console.log('\n\n\n');
-
-        _.each(convoEvent.chat_message.message_content.segment, function(segment) {
-          // All the known types
-          if (segment.type === 'TEXT') {
-            message += segment.text;
-          }
-          else if (segment.type === "LINE_BREAK") {
-            message += '\n';
-          }
-          else if (segment.type == "LINK") {
-            message += segment.text;
-
-            if (segment.link_data.link_target.match(/www\.google\.com\/url\?/)) {
-            }
-            else {
-              // console.log(segment);
-
-            }
-          }
-        });
-        _.each(convoEvent.chat_message.message_content.attachment, function(attachment) {
-          // console.log(attachment);
-
-          m.attachments.push(attachment);
-        });
-
-        if (m.attachments.length > 0) {
-          // console.log(JSON.stringify(convoEvent.chat_message));
-          // console.log('\n\n\n')
+  // A conversation is made up of events
+  _.each(conversationState.event, function(value, key) {
+    var convoEvent = conversationState.event[key];
+    var sender = participantMap[convoEvent.sender_id.gaia_id];
+    var receiver = ""; //participantMap[convoEvent.receiver_id.gaia_id];
+    var messageText = "";
+    var timestamp = convoEvent.timestamp;
+    if (convoEvent.chat_message) {
+      var messageSegments = [];
+      _.each(convoEvent.chat_message.message_content.segment, function(segment) {
+        // All the known types
+        if (segment.type === 'TEXT') {
+          messageSegments.push({
+            text: segment.text,
+            type: 'text'
+          });
+          messageText += segment.text;
         }
-      }
-    });
+        else if (segment.type === "LINE_BREAK") {
+          messageSegments.push({
+            text: '\n',
+            type: 'text'
+          });
+          messageText += '\n';
+        }
+        else if (segment.type == "LINK") {
+          messageText += segment.text;
+          messageSegments.push({
+            type: 'link',
+            path: segment.link_data.link_title
+          });
+        }
+      });
+
+      var attachments = [];
+
+      _.each(convoEvent.chat_message.message_content.attachment, function(attachment) {
+
+        // {embed_item: { type: [ 'PLUS_PHOTO' ],
+        //    'embeds.PlusPhoto.plus_photo': {  // This is keyed based off of the type, iterating through the keys and looking for a url property is easier
+        //         <-- all the stuff we want -- >
+        //     }}
+
+        _.each(attachment.embed_item, function(value, key) {
+          // The way these are keyed
+          if (value.url) {
+            var segment = {
+              type: 'file',
+              url: value.url
+            };
+
+            if (_.contains(['PHOTO', 'ANIMATED_PHOTO'], value.media_type)) {
+              segment.file_type = _.compact(['image', getFileExtensionFromUrl(value.url)]).join('/');
+            }
+            else if (value.media_type === 'VIDEO') {
+              segment.file_type = _.compact(['video', getFileExtensionFromUrl(value.url)]).join('/');
+            }
+            else if (value.media_type === 'AUDIO') {
+              segment.file_type = _.compact(['audio', getFileExtensionFromUrl(value.url)]).join('/');
+            }
+            else if (!value.media_type) {
+              segment.file_type = 'unknown';
+            }
+
+            // create a message segment for the file attachment
+            messageSegments.push(segment);
+          }
+        });
+
+        attachments.push(attachment);
+      });
+
+      messages.push({
+        date:             timestamp,
+        sender:           sender,
+        receiver:         receiver,
+        message_text:     messageText,
+        message_segments: messageSegments,
+        attachments:      attachments
+      });
+    }
   });
+
+  return messages;
 }
 
-function processConversation(conversation) {
-  return RSVP.Promise(function(resolve, reject) {
-    console.log('ok')
-    return mapParticipants(conversation).then(function(participantMap) {
-      var messages = buildMessages(conversation, participantMap);
-      resolve(messages);
-    }, function(reason) {
-      console.log('map participant failed');
-    }).catch(function(error) {
-      console.log('something went wrong', error);
-    });
-  }).catch(function(e) {
-    console.log('errrrrr')
+function processConversation(conversationState) {
+  return mapParticipants(conversationState).then(function(result) {
+      return buildMessages(result.row, result.participants);
+  }).catch(function(err) {
+    console.log('Process conversation failed with error: ');
+    console.log(err);
   });
 }
-
 
 module.exports = function(path, locale) {
-  return new RSVP.Promise(function(resolve, reject) {
-    var i = 0;
-    var promiseHash = {};
-    oboe(FS.createReadStream(path))
-    .node('conversation_state', function(c){
-      var conversationId = c.conversation_id.id;
-      promiseHash[conversationId] = processConversation(c);
-    })
-    .done(function(things) {
-      return RSVP.hash(promiseHash).then(function(results) {
+  return new Promise(function(resolve, reject) {
+    var promises = [];
 
-        console.log(Object.keys(results));
+    function processConversationState(conversationState) {
+      var conversationId = conversationState.conversation_id.id;
+      console.log('started processing ' + conversationId);
+      var processTask = processConversation(conversationState).then(function(taskResults) {
+        console.log('finished processing ' + conversationId);
+      }).catch(function(error) {
+        console.log('error processing' + conversationId);
+      });
+      promises.push(processTask);
+    }
 
-//        resolve(things);
+    function fileProcessingDone(things) {
+      return new Promise.all(promises).then(function(results) {
+
       }, function(reason) {
 
-      }).catch(function(error) {
-  console.log('something went wrong', error);
-});
-    });
+      });
+    }
+
+    oboe(FS.createReadStream(path))
+    .node('conversation_state', processConversationState)
+    .done(fileProcessingDone);
   });
 
 };
