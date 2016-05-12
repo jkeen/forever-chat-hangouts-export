@@ -1,5 +1,5 @@
 {
-  "name": "forever-chat-export-hangouts",
+  "name": "forever-chat-hangouts-export",
   "version": "0.0.1",
   "description": "Exports Hangouts chat history into a forever chat format",
   "main": "index.js",
@@ -7,20 +7,23 @@
     "test": "mocha --reporter spec"
   },
   "keywords": [
-    "imessage",
-    "ichat",
+    "hangouts",
+    "google",
+    "gchat",
     "export"
   ],
   "author": "Jeff Keen",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "bluebird": "^3.0.6",
-    "chai": "^3.4.1",
-    "chai-as-promised": "^5.1.0",
     "crypto": "0.0.3",
-    "mocha": "^2.3.4",
     "oboe": "^2.1.2",
     "sqlite3": "^3.1.1",
     "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.3.4"    
   }
 }

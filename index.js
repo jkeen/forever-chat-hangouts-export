@@ -184,25 +184,41 @@ module.exports = function(path, locale) {
     function processConversationState(conversationState) {
       var conversationId = conversationState.conversation_id.id;
       console.log('started processing ' + conversationId);
+
       var processTask = processConversation(conversationState).then(function(taskResults) {
         console.log('finished processing ' + conversationId);
+        return taskResults;
       }).catch(function(error) {
         console.log('error processing' + conversationId);
       });
+
+
       promises.push(processTask);
     }
 
     function fileProcessingDone(things) {
       return new Promise.all(promises).then(function(results) {
-
+        resolve(results);
       }, function(reason) {
 
       });
     }
 
-    oboe(FS.createReadStream(path))
-    .node('conversation_state', processConversationState)
-    .done(fileProcessingDone);
+    if (!path) {
+      reject("Could not read file at path");
+    }
+    else {
+      var stream = FS.createReadStream(path);
+      stream.on('error', function(err) {
+        reject("Could not read file at path");
+      });
+
+      stream.on('open', function() {
+        oboe(stream)
+        .node('conversation_state', processConversationState)
+        .done(fileProcessingDone);
+      });
+    }
   });
 
 };

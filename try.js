@@ -1,3 +1,4 @@
 var importer       = require('./index');
-
-var importData     = importer("/Users/jeff/Desktop/hangouts.json");
+var importData     = importer("hangouts.json").then(function(payload) {
+  console.log(payload)
+});
